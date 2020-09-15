@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "lge",
+      "name": "LG-H870",
+      "codename": "h870",
+      "filename": "Havoc-OS-v3.9-20200915-h870-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Michael Bardoň (w0lfsvk)",
+      "size": "653820583",
+      "datetime": 1600173762,
+      "id": "919b0902847d75cac023ef936fe65ec2a9428e2fdd00c5d4578a3e20aa353237",
+      "url": "https://sourceforge.net/projects/havoc-os/files/lucye/Havoc-OS-v3.9-20200915-h870-Official.zip/download",
+      "group": "https://t.me/havoc_lucye",
+      "changelog": ""
+    }
+  ]
+}
