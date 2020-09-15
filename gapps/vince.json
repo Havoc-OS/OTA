@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "Redmi 5 Plus",
+      "codename": "vince",
+      "filename": "Havoc-OS-v3.9-20200915-vince-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "Ken Harris (KenHV)",
+      "size": "1264117202",
+      "datetime": 1600177303,
+      "id": "f61c922b15ac159ab121ff2f60a270b92cc12c491c547b91dfae4fb3de7c60a4",
+      "url": "https://sourceforge.net/projects/havoc-os/files/vince/Havoc-OS-v3.9-20200915-vince-Official-GApps.zip/download",
+      "group": "https://t.me/havoc_vince",
+      "changelog": ""
+    }
+  ]
+}
