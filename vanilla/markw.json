@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "Redmi 4",
+      "codename": "markw",
+      "filename": "Havoc-OS-v3.9-20200914-markw-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "ShihabZzz",
+      "size": "646491966",
+      "datetime": 1600101033,
+      "id": "9fb5d6609e5be584ac820a1cb9ccca7899a9b72255ff999a0db402e3cdf0bf70",
+      "url": "https://sourceforge.net/projects/havoc-os/files/markw/Havoc-OS-v3.9-20200914-markw-Official.zip/download",
+      "group": "https://t.me/havoc_markw",
+      "changelog": ""
+    }
+  ]
+}

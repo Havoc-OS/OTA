@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "Redmi 4",
+      "codename": "markw",
+      "filename": "Havoc-OS-v3.9-20200914-markw-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "ShihabZzz",
+      "size": "1211496186",
+      "datetime": 1600093218,
+      "id": "1cf0db50310ac712346a12b6550cc95a7fd82d7e78ac2179aaf7cee3145cbc50",
+      "url": "https://sourceforge.net/projects/havoc-os/files/markw/Havoc-OS-v3.9-20200914-markw-Official-GApps.zip/download",
+      "group": "https://t.me/havoc_markw",
+      "changelog": ""
+    }
+  ]
+}
