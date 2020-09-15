@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "asus",
+      "name": "ASUS_X01BDA",
+      "codename": "X01BD",
+      "filename": "Havoc-OS-v3.9-20200915-X01BD-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "Sonal Singh (SonalSingh18)",
+      "size": "1336478097",
+      "datetime": 1600168149,
+      "id": "4c0d51681654b8e7434f91b209c9e1b34bf669859b164ec443cf9610d41391f3",
+      "url": "https://sourceforge.net/projects/havoc-os/files/X01BD/Havoc-OS-v3.9-20200915-X01BD-Official-GApps.zip/download",
+      "group": "https://t.me/havoc_X01BD",
+      "changelog": ""
+    }
+  ]
+}
