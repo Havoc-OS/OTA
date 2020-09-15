@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "generic",
+      "name": "havoc_Z01R",
+      "codename": "Z01R",
+      "filename": "Havoc-OS-v3.9-20200914-Z01R-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Edward Wu (edwardwu0223)",
+      "size": "663359662",
+      "datetime": 1600100977,
+      "id": "da99264f4c37fbb0cd66133eb70d37ef1ab48c6d0ff1642ede24f03aa0aa6863",
+      "url": "https://sourceforge.net/projects/havoc-os/files/Z01R/Havoc-OS-v3.9-20200914-Z01R-Official.zip/download",
+      "group": "https://t.me/havoc_Z01R",
+      "changelog": ""
+    }
+  ]
+}
