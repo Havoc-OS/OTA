@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "Mi 5X",
+      "codename": "tiffany",
+      "filename": "Havoc-OS-v3.9-20200914-tiffany-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Magical Unicorn (BLIBWU)",
+      "size": "646207317",
+      "datetime": 1600095998,
+      "id": "f690a23dad2a394ad7b6d00a045cfd332b361cfe4e9c5dde56ad2820b0fa09e7",
+      "url": "https://sourceforge.net/projects/havoc-os/files/tiffany/Havoc-OS-v3.9-20200914-tiffany-Official.zip/download",
+      "group": "https://t.me/havoc_tiffany",
+      "changelog": ""
+    }
+  ]
+}
