@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "POCO F1",
+      "codename": "beryllium",
+      "filename": "Havoc-OS-v3.9-20200915-beryllium-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Ninad Patil (REIGNZ3)",
+      "size": "828768911",
+      "datetime": 1600169844,
+      "id": "8c83658ba2e56da395a1c40a44ba8ee0275a4ad7833fdb6d328c58fac10b17ba",
+      "url": "https://sourceforge.net/projects/havoc-os/files/beryllium/Havoc-OS-v3.9-20200915-beryllium-Official.zip/download",
+      "group": "https://t.me/havoc_beryllium",
+      "changelog": ""
+    }
+  ]
+}

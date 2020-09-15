@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "POCO F1",
+      "codename": "beryllium",
+      "filename": "Havoc-OS-v3.9-20200915-beryllium-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "Ninad Patil (REIGNZ3)",
+      "size": "1393300573",
+      "datetime": 1600166973,
+      "id": "31b4dfaa13ed95ee7c267a083423fa624645a3d0a223b966308c4467ee9e9dc8",
+      "url": "https://sourceforge.net/projects/havoc-os/files/beryllium/Havoc-OS-v3.9-20200915-beryllium-Official-GApps.zip/download",
+      "group": "https://t.me/havoc_beryllium",
+      "changelog": ""
+    }
+  ]
+}
