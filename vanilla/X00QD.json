@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "asus",
+      "name": "havoc_X00QD",
+      "codename": "X00QD",
+      "filename": "Havoc-OS-v3.9-20200914-X00QD-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Edward Wu (edwardwu0223)",
+      "size": "768931887",
+      "datetime": 1600122258,
+      "id": "534a0c6babceecd5bd12abd00f7d772ffa865a60f6f3903ed0130faff4f1b079",
+      "url": "https://sourceforge.net/projects/havoc-os/files/X00QD/Havoc-OS-v3.9-20200914-X00QD-Official.zip/download",
+      "group": "https://t.me/havoc_X00QD",
+      "changelog": ""
+    }
+  ]
+}
