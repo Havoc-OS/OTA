@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "Redmi 5A",
+      "codename": "riva",
+      "filename": "Havoc-OS-v3.9-20200916-riva-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "ErwinAbs",
+      "size": "614167337",
+      "datetime": 1600273321,
+      "id": "1c05066b61d8211e29aefcecce99e0155136bf3e2227ecf44878b572a89f8b01",
+      "url": "https://sourceforge.net/projects/havoc-os/files/riva/Havoc-OS-v3.9-20200916-riva-Official.zip/download",
+      "group": "https://t.me/havoc_riva",
+      "changelog": ""
+    }
+  ]
+}
