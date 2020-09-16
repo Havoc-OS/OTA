@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "Redmi Note 8",
+      "codename": "ginkgo",
+      "filename": "Havoc-OS-v3.9-20200916-ginkgo-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "Alexander Saleev (Sarisan)",
+      "size": "1438486186",
+      "datetime": 1600279590,
+      "id": "9478c7d59106d5ff8b08a80a353316e36f987716fbffcfaba91959ef02b68287",
+      "url": "https://sourceforge.net/projects/havoc-os/files/ginkgo/Havoc-OS-v3.9-20200916-ginkgo-Official-GApps.zip/download",
+      "group": "https://t.me/havoc_ginkgo",
+      "changelog": ""
+    }
+  ]
+}
