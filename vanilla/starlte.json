@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "samsung",
+      "name": "SM-G960F",
+      "codename": "starlte",
+      "filename": "Havoc-OS-v3.9-20200917-starlte-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Adrian Sian (garett_09)",
+      "size": "567255017",
+      "datetime": 1600333150,
+      "id": "34bc708de5db6d78f4503b20e0a208b9f86d98fff492524e2979be01f1790b7e",
+      "url": "https://sourceforge.net/projects/havoc-os/files/starlte/Havoc-OS-v3.9-20200917-starlte-Official.zip/download",
+      "group": "https://t.me/havoc9810",
+      "changelog": ""
+    }
+  ]
+}
