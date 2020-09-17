@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "samsung",
+      "name": "SM-G965F",
+      "codename": "star2lte",
+      "filename": "Havoc-OS-v3.9-20200917-star2lte-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Adrian Sian (garett_09)",
+      "size": "567270725",
+      "datetime": 1600321196,
+      "id": "3203196bb7d9e17fb6acfd7e3785982e3f41cc2ec8a71d5d98eeafa82ec510f8",
+      "url": "https://sourceforge.net/projects/havoc-os/files/star2lte/Havoc-OS-v3.9-20200917-star2lte-Official.zip/download",
+      "group": "https://t.me/havoc9810",
+      "changelog": ""
+    }
+  ]
+}
