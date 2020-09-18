@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Redmi",
+      "name": "Redmi K30",
+      "codename": "phoenix",
+      "filename": "Havoc-OS-v3.9-20200918-phoenix-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "Abubakar Yagoub (Blacksuan19)",
+      "size": "1815150774",
+      "datetime": 1600453809,
+      "id": "eb7ba72cc1573e1ad0ebc5066c4c152a7d4b74bd5d7ec13e49b7e9ac7b8ddd3f",
+      "url": "https://sourceforge.net/projects/havoc-os/files/phoenix/Havoc-OS-v3.9-20200918-phoenix-Official-GApps.zip/download",
+      "group": "https://t.me/havoc_phoenix",
+      "changelog": ""
+    }
+  ]
+}

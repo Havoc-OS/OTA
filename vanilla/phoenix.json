@@ -1,0 +1,18 @@
+{  "response": [
+    {      "oem": "Redmi",
+      "name": "Redmi K30",      
+      "codename": "phoenix",
+      "filename": "Havoc-OS-v3.9-20200918-phoenix-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Abubakar Yagoub (Blacksuan19)",
+      "size": "1244080302",
+      "datetime": 1600448339,
+      "id": "1357809cbda082dc8e2dab4f2516430b1a7f850d90db3c95a7b0dcb9287e3cdf",
+      "url": "https://sourceforge.net/projects/havoc-os/files/phoenix/Havoc-OS-v3.9-20200918-phoenix-Official.zip/download",
+      "group": "https://t.me/havoc_phoenix",
+      "changelog": ""
+    }
+  ]
+}
