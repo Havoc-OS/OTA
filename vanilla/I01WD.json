@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "asus",
+      "name": "Asus Zenfone 6 (2019)",
+      "codename": "I01WD",
+      "filename": "Havoc-OS-v3.7-20200719-I01WD-Official.zip",
+      "version": "3.7",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Comicox",
+      "size": "701497344",
+      "datetime": 1595136424,
+      "id": "",
+      "url": "https://sourceforge.net/projects/havoc-os/files/I01WD/Havoc-OS-v3.7-20200719-I01WD-Official.zip/download",
+      "group": "https://t.me/havoc_I01WD",
+      "changelog": ""
+    }
+  ]
+}

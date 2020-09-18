@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Google",
+      "name": "Google Pixel 3 XL",
+      "codename": "crosshatch",
+      "filename": "Havoc-OS-v3.5-20200518-blueline-Official.zip",
+      "version": "3.5",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Steveproski",
+      "size": "1181116006",
+      "datetime": 1589779624,
+      "id": "",
+      "url": "https://sourceforge.net/projects/havoc-os/files/blueline/Havoc-OS-v3.5-20200518-crosshatch-Official.zip/download",
+      "group": "https://t.me/havoc_crosshatch",
+      "changelog": ""
+    }
+  ]
+}

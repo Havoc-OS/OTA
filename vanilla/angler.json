@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Google",
+      "name": "Nexux 6P",
+      "codename": "angler",
+      "filename": "Havoc-OS-v3.8-20200816-angler-Official.zip",
+      "version": "3.8",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "roxxannee",
+      "size": "661022311",
+      "datetime": 1597555624,
+      "id": "",
+      "url": "https://sourceforge.net/projects/havoc-os/files/angler/Havoc-OS-v3.8-20200816-angler-Official.zip/download",
+      "group": "https://t.me/havoc_angler",
+      "changelog": ""
+    }
+  ]
+}

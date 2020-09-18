@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "asus",
+      "name": "Asus ROG Phone II",
+      "codename": "I001D",
+      "filename": "Havoc-OS-v3.5-20200515-I001D-Official.zip",
+      "version": "3.5",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Comicox",
+      "size": "684510412",
+      "datetime": 1589520467,
+      "id": "",
+      "url": "https://sourceforge.net/projects/havoc-os/files/I001D/Havoc-OS-v3.5-20200515-I001D-Official.zip/download",
+      "group": "https://t.me/havoc_I001D",
+      "changelog": ""
+    }
+  ]
+}
