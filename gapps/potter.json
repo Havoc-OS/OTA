@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Motorola",
+      "name": "Moto G5 Plus",
+      "codename": "potter",
+      "filename": "Havoc-OS-v3.9-20200916-potter-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "Abhijit Tudu (abhijit1998)",
+      "size": "1252593112",
+      "datetime": 1600226174,
+      "id": "012dde417354f33bd2421569d0e968649638001c7fe3f5d3a0946586021a5935",
+      "url": "https://sourceforge.net/projects/havoc-os/files/potter/Havoc-OS-v3.9-20200916-potter-Official-GApps.zip/download",
+      "group": "https://t.me/havoc_potter",
+      "changelog": ""
+    }
+  ]
+}
