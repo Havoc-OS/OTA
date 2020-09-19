@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "Redmi Note 5",
+      "codename": "whyred",
+      "filename": "Havoc-OS-v3.9-20200919-whyred-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "",
+      "size": "1301578076",
+      "datetime": 1600550025,
+      "id": "4ce3f83b6dbc3ab0ee68aa5e7ca45e42e4e5cffd933287f2c8b78636e17cd920",
+      "url": "https://sourceforge.net/projects/havoc-os/files/whyred/Havoc-OS-v3.9-20200919-whyred-Official-GApps.zip/download",
+      "group": "",
+      "changelog": ""
+    }
+  ]
+}
