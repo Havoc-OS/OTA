@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "samsung",
+      "name": "SM-G955F",
+      "codename": "dream2lte",
+      "filename": "Havoc-OS-v3.9-20200920-dream2lte-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "EugW",
+      "size": "666972251",
+      "datetime": 1600630344,
+      "id": "25afac2f86c1e99dffaffdf1c552ba56963ffd3a046d50cf2af6b709036eb5d3",
+      "url": "https://sourceforge.net/projects/havoc-os/files/dream2lte/Havoc-OS-v3.9-20200920-dream2lte-Official.zip/download",
+      "group": "https://t.me/havoc8895",
+      "changelog": ""
+    }
+  ]
+}

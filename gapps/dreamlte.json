@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "samsung",
+      "name": "SM-G950F",
+      "codename": "dreamlte",
+      "filename": "Havoc-OS-v3.9-20200920-dreamlte-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "EugW",
+      "size": "1231678224",
+      "datetime": 1600601621,
+      "id": "d0807f93237434961cfaa2cfd3e947894a10facb94c5a8953cb2c63c3fedb5a3",
+      "url": "https://sourceforge.net/projects/havoc-os/files/dreamlte/Havoc-OS-v3.9-20200920-dreamlte-Official-GApps.zip/download",
+      "group": "https://t.me/havoc8895",
+      "changelog": ""
+    }
+  ]
+}

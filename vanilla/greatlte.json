@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "samsung",
+      "name": "SM-N950F",
+      "codename": "greatlte",
+      "filename": "Havoc-OS-v3.9-20200920-greatlte-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "EugW",
+      "size": "667921154",
+      "datetime": 1600633104,
+      "id": "6c7f9577dca3acc1ba9e59db6419a5285163f4525b72f6d178300a61ca937e2d",
+      "url": "https://sourceforge.net/projects/havoc-os/files/greatlte/Havoc-OS-v3.9-20200920-greatlte-Official.zip/download",
+      "group": "https://t.me/havoc8895",
+      "changelog": ""
+    }
+  ]
+}
