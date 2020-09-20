@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "Redmi 3S/3X",
+      "codename": "land",
+      "filename": "Havoc-OS-v3.9-20200920-land-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "Sairam Majgaonkar (Sairam60)",
+      "size": "1186397503",
+      "datetime": 1600609058,
+      "id": "54e4c97876a1677a2324aa43398fe9e8d6e83af7a184bc4969d23964332bfdc3",
+      "url": "https://sourceforge.net/projects/havoc-os/files/land/Havoc-OS-v3.9-20200920-land-Official-GApps.zip/download",
+      "group": "https://t.me/havoc_land",
+      "changelog": ""
+    }
+  ]
+}
