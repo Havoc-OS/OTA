@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "oem": "motorola",
+      "name": "Moto G (5S) Plus",
+      "codename": "sanders",
+      "filename": "Havoc-OS-v3.9-20200919-sanders-Official-GApps.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "maintainer": "P Mahapatra (ronax)",
+      "size": "1250737254",
+      "datetime": 1600539411,
+      "id": "ee2d2a1e02e35797efb3262ae73905608c6d4367ce3d33198297e3468f1e0fa4",
+      "url": "https://sourceforge.net/projects/havoc-os/files/sanders/Havoc-OS-v3.9-20200919-sanders-Official-GApps.zip/download",
+      "group": "https://t.me/havoc_sanders",
+      "changelog": ""
+    }
+  ]
+}
