@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "oneplus",
+      "name": "A0001",
+      "codename": "bacon",
+      "filename": "Havoc-OS-v3.9-20200920-bacon-OFFICIAL.zip",
+      "version": "3.9",
+      "romtype": "OFFICIAL",
+      "variant": "Vanilla",
+      "maintainer": "Clint Thebus (ClintT1)",
+      "size": "440312779",
+      "datetime": 1600599325,
+      "id": "aea6139edd88e68b7cb080ac6b1f0f5d8fcd16cffa51cd21fe82b92f96bc842d",
+      "url": "https://sourceforge.net/projects/havoc-os/files/bacon/Havoc-OS-v3.9-20200920-bacon-OFFICIAL.zip/download",
+      "group": "https://t.me/havoc_bacon",
+      "changelog": ""
+    }
+  ]
+}
