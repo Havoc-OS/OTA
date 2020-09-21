@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "motorola",
+      "name": "moto g(7) power",
+      "codename": "ocean",
+      "filename": "Havoc-OS-v3.9-20200920-ocean-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Andrew Hexen (SyberHexen)",
+      "size": "598522896",
+      "datetime": 1600645229,
+      "id": "d8e9249585798740ba68cbf74a2c0aa744f8aadc4c0e9ad663da69051a8cb941",
+      "url": "https://sourceforge.net/projects/havoc-os/files/ocean/Havoc-OS-v3.9-20200920-ocean-Official.zip/download",
+      "group": "https://t.me/havoc_ocean",
+      "changelog": ""
+    }
+  ]
+}
