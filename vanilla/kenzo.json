@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "Redmi Note 3",
+      "codename": "kenzo",
+      "filename": "Havoc-OS-v3.9-20200922-kenzo-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Magicxavi",
+      "size": "631702344",
+      "datetime": 1600786960,
+      "id": "bf983afdd5150edf3023dbf5b828b0f2e6ccb365b4810394d97fcf02a808c88f",
+      "url": "https://sourceforge.net/projects/havoc-os/files/kenzo/Havoc-OS-v3.9-20200922-kenzo-Official.zip/download",
+      "group": "https://t.me/havoc_kenzo",
+      "changelog": ""
+    }
+  ]
+}
