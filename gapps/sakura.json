@@ -4,16 +4,16 @@
       "oem": "Xiaomi",
       "name": "Redmi 6 Pro",
       "codename": "sakura",
-      "filename": "Havoc-OS-v3.9-20200920-sakura-Official-GApps.zip",
+      "filename": "Havoc-OS-v3.9-20200929-sakura-Official-GApps.zip",
       "version": "3.9",
       "romtype": "Official",
       "variant": "GApps",
-      "maintainer": "Tushar Mahajan (mahajant99)",
-      "size": "1289138940",
-      "datetime": 1600595708,
-      "id": "a0150afab2bd07140f85145658f71931db81f346c166b8404ed8af2bd269a881",
-      "url": "https://sourceforge.net/projects/havoc-os/files/sakura/Havoc-OS-v3.9-20200920-sakura-Official-GApps.zip/download",
-      "group": "https://t.me/havoc_sakura",
+      "maintainer": "",
+      "size": "1290109324",
+      "datetime": 1601389238,
+      "id": "be651775bef389bc42dc01192de34276dc2c3caf2686e5dd2594b9aca64f5956",
+      "url": "https://sourceforge.net/projects/havoc-os/files/sakura/Havoc-OS-v3.9-20200929-sakura-Official-GApps.zip/download",
+      "group": "",
       "changelog": ""
     }
   ]
