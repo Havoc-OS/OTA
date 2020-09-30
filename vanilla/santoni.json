@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "Redmi 4",
+      "codename": "santoni",
+      "filename": "Havoc-OS-v3.9-20200930-santoni-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Viraj Patil (beingstargazer)",
+      "size": "653529041",
+      "datetime": 1601431691,
+      "id": "e8bc0408ddb2cc8e70bc8c42bc042a522c0dd00e82687f9b9639217f2ed226fb",
+      "url": "https://sourceforge.net/projects/havoc-os/files/santoni/Havoc-OS-v3.9-20200930-santoni-Official.zip/download",
+      "group": "https://t.me/havoc_santoni",
+      "changelog": ""
+    }
+  ]
+}
