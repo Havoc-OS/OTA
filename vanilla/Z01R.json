@@ -1,8 +1,8 @@
 {
   "response": [
     {
-      "oem": "generic",
-      "name": "havoc_Z01R",
+      "oem": "ASUS",
+      "name": "ASUS ZenFone 5Z",
       "codename": "Z01R",
       "filename": "Havoc-OS-v3.9-20200928-Z01R-Official.zip",
       "version": "3.9",
