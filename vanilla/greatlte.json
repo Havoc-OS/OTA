@@ -1,8 +1,8 @@
 {
   "response": [
     {
-      "oem": "samsung",
-      "name": "SM-N950F",
+      "oem": "Samsung",
+      "name": "Samsung Galaxy Note 8",
       "codename": "greatlte",
       "filename": "Havoc-OS-v3.9-20200920-greatlte-Official.zip",
       "version": "3.9",

@@ -1,8 +1,8 @@
 {
   "response": [
     {
-      "oem": "samsung",
-      "name": "SM-G950F",
+      "oem": "Samsung",
+      "name": "Samsung Galaxy S8",
       "codename": "dreamlte",
       "filename": "Havoc-OS-v3.9-20200920-dreamlte-Official-GApps.zip",
       "version": "3.9",
