@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "OnePlus",
+      "name": "ONEPLUS A6013",
+      "codename": "fajita",
+      "filename": "Havoc-OS-v3.9-20201001-fajita-Official.zip",
+      "version": "3.9",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "Clint Thebus (ClintT1)",
+      "size": "696698405",
+      "datetime": 1601571333,
+      "id": "6309de8bd0c012aa72b79ea1a1cb642d8bf0b372c5559a1c82b1bd518300ae75",
+      "url": "https://sourceforge.net/projects/havoc-os/files/fajita/Havoc-OS-v3.9-20201001-fajita-Official.zip/download",
+      "group": "https://t.me/havoc_oneplus6",
+      "changelog": ""
+    }
+  ]
+}
