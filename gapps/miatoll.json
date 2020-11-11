@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Xiaomi",
+      "name": "SM6250",
+      "codename": "miatoll",
+      "filename": "Havoc-OS-v3.11-20201111-miatoll-Official-GApps.zip",
+      "version": "3.11",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "Rizak Kamal (ijak)",
+      "size": "1962726141",
+      "datetime": 1605075117,
+      "id": "95db8b08cfaf35e86120f59861fe9145852d2887d992f22c373db46492c99ff7",
+      "url": "https://sourceforge.net/projects/havoc-os/files/miatoll/Havoc-OS-v3.11-20201111-miatoll-Official-GApps.zip/download",
+      "group": "https://t.me/havoc_miatoll",
+      "changelog": ""
+    }
+  ]
+}
