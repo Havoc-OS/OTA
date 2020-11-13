@@ -2,17 +2,17 @@
   "response": [
     {
       "oem": "ASUS",
-      "name": "ASUS ZenFone 5 (2018)",
+      "name": "ASUS ZenFone 5(2018)",
       "codename": "X00QD",
-      "filename": "Havoc-OS-v3.9-20200928-X00QD-Official.zip",
-      "version": "3.9",
+      "filename": "Havoc-OS-v3.11-20201113-X00QD-Official.zip",
+      "version": "3.11",
       "romtype": "Official",
       "variant": "Vanilla",
       "maintainer": "Edward Wu (edwardwu0223)",
-      "size": "769371353",
-      "datetime": 1601266027,
-      "id": "8067f86682b986eff58620ea89bf2d00e7811917c4042a1a85ad2c03299bf8bd",
-      "url": "https://sourceforge.net/projects/havoc-os/files/X00QD/Havoc-OS-v3.9-20200928-X00QD-Official.zip/download",
+      "size": "769333316",
+      "datetime": 1605226534,
+      "id": "dbdc39701f45d985c4c79c24ebf7a6d7861bb1da7ad33bea1a6995359c444c2f",
+      "url": "https://sourceforge.net/projects/havoc-os/files/X00QD/Havoc-OS-v3.11-20201113-X00QD-Official.zip/download",
       "group": "https://t.me/havoc_X00QD",
       "changelog": ""
     }
