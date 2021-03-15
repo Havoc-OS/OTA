@@ -1,20 +1,20 @@
 {
   "response": [
     {
-    "oem": "Xiaomi",
-    "name": "MI MIX 2",
-    "codename": "chiron",
-    "filename": "Havoc-OS-v3.12-20210204-chiron-Official-GApps.zip",
-    "version": "3.12",
-    "romtype": "Official",
-    "variant": "GApps",
-    "maintainer": "Rishi Shukla (lightvortex)",
-    "size": "1268507275",
-    "datetime": 1612396800,
-    "id": "a40e4eca1cf089efd66aa49035be65cf49ea7898643740994e9aafb7412c29a5",
-    "url": "https://sourceforge.net/projects/havoc-os/files/chiron/Havoc-OS-v3.12-20210204-chiron-Official-GApps.zip/download",
-    "group": "https://t.me/havocofficial",
-    "changelog": ""
+      "oem": "Xiaomi",
+      "name": "MI MIX 2",
+      "codename": "chiron",
+      "filename": "Havoc-OS-v3.12-20210204-chiron-Official-GApps.zip",
+      "version": "3.12",
+      "romtype": "Official",
+      "variant": "GApps",
+      "maintainer": "Rishi Shukla (lightvortex)",
+      "size": "1268507275",
+      "datetime": 1612396800,
+      "id": "a40e4eca1cf089efd66aa49035be65cf49ea7898643740994e9aafb7412c29a5",
+      "url": "https://sourceforge.net/projects/havoc-os/files/chiron/Havoc-OS-v3.12-20210204-chiron-Official-GApps.zip/download",
+      "group": "https://t.me/havocofficial",
+      "changelog": ""
     }
   ]
 }
