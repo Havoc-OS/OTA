@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"<br/>- Merged May Security Patch (android-11.0.0_r37)<br/>- Moved Smart Charging to Adaptive Charging<br/>- Added Temperature based Adaptive Charging<br/>- Added Battery temperature to battery stats<br/>- Added Partial screenshot<br/>- Added App volume row to volume dialog<br/>- Added Havoc-OS Recovery UI<br/>- Added QS tile to show Volume panel<br/>- Added QS tile to show Power menu<br/>- Added Compass QS tile<br/>- Added Language switch QS tile<br/>- Added Wi-Fi data usage in QS footer when connected<br/>- Added Navbar layout customization<br/>- Added left and right virtual button while typing<br/>- Added Home button press to answer call<br/>- Added Volume button tap to answer call<br/>- Added Volume button cursor control<br/>- Added Volume button tap to wake device<br/>- Added toggle to hide Status bar on Lockscreen<br/>- Added Lockscreen background blur<br/>- Added a few Lockscreen clock styles<br/>- Added kill button to notification conversation guts<br/>- Improved VoLTE/VoWiFi Status bar icons<br/>- Improved Status bar brightness control gesture<br/>- Improved Notch hide<br/>- Improved Hidden gesture navbar<br/>- Improved Clipboard access notifications<br/>- Improved AOD while charging<br/>- Fixed QS footer icons visibility<br/>- Fixed FOD disappearing on Lockscreen<br/>- Fixed face removal when disabling Security<br/>- Fixed Notification panel with immerse mode<br/>- Fixed screenshot action chip colors in dark mode<br/>- Fixed wrong VoLTE/VoWiFi slot detection for Dual SIM<br/>- Other fixes and improvements"
+    }
+  ]
+}
