@@ -1,0 +1,35 @@
+Havoc-OS v4.6 Changelog 15-06-2021:
+
+- Merged June Security Patch (android-11.0.0_r38)
+- Added Automated Sleep Mode
+- Added Color mode preview to LiveDisplay
+- Added Alarms Blocker (Developer Settings)
+- Added Wakelock Blocker (Developer Settings)
+- Added Partial/Full Screenshot QS tile
+- Added 1 minute timeout to Power menu
+- Added ability to block media apps from resuming
+- Added toggle to reduce refresh rate on battery saver
+- Added Blinking stop dot to ScreenRecord
+- Added Low quality option to ScreenRecord
+- Improved ScreenRecord Dialog layout
+- Improved Sensors icon
+- Improved Refresh rate settings
+- Improved Adaptive charging
+- Improved Blur appearance and performance
+- Improved Bluetooth dialog theme
+- Improved Lockscreen PIN layout
+- Improved Pocket mode layout
+- Improved ringer vibration patterns
+- Changed default screen timeout to 2 minutes
+- Fixed Styles & Wallpapers crash on Vanilla builds
+- Fixed issues with AppLock
+- Fixed daily Wi-Fi data usage in QS footer
+- Fixed crash caused by Heads-Up timeout
+- Fixed Gaming mode turn off notification
+- Fixed Long press on Gaming Mode QS tile
+- Fixed inverted VoLTE/VoWiFi icons
+- Fixed Signal icon alignment
+- Removed Suspend actions
+- Added Font size setting to Launcher
+- Improved Icon size setting in Launcher
+- Other fixes and improvements
