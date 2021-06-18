@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- SElinux Enforcing<br/>- Fixed SafetyNet"
+    }
+  ]
+}
