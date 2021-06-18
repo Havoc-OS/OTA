@@ -1,0 +1,7 @@
+{
+  "changelog":
+  [
+  "enabled":"true",
+  "whitelist_only":"false",
+  "info":"Switched to OTA Updates as the primary method <br/> Added kernel tweaks to kill log spam <br/> Upstreamed <br/> Building DTBO <br\> Another fix for some green tint from google pixel kernels"
+}
