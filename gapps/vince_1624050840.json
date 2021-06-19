@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Imported custom Fingerprint HIDL (Thanks @SebaUbuntu)<br/>- Fixed IR<br/>- DA kernel 4.9.272<br/>- June redfin fp<br/>- Some minor fixes"
+    }
+  ]
+}
