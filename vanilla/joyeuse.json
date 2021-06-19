@@ -1,0 +1,16 @@
+{
+  "oem":"Xiaomi",
+  "name":"joyeuse",
+  "codename":"joyeuse",
+  "filename":"Havoc-OS-v4.6-20210619-joyeuse-Official.zip",
+  "version":"4.6",
+  "romtype":"Official",
+  "variant":"Vanilla",
+  "maintainer":"Ijak(rizak kamal)",
+  "size":1198258746,
+  "datetime":1624082310,
+  "filehash":"afd0166b4ab6d9a849250531f45ae95c",
+  "id":"baa619a2286c696ff7fb37efb6d2c8e65181abaad77d1aa2ccdd9f0cad3e480e",
+  "url":"https://download.havoc-os.com/joyeuse/Havoc-OS-v4.6-20210619-joyeuse-Official.zip",
+  "group":"https://t.me/Havoc_OS"
+}
