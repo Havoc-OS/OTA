@@ -1,0 +1,7 @@
+{
+  "changelog":
+  [
+  "enabled":"true",
+  "whitelist_only":"false",
+  "info":"- Kernel Upstreamed to v4.9.273<br/>- Update Adreno blobs from LA.UM.9.6.2.r1-04100-89xx.0<br/>- Fix issues with some earbuds and you can't reproduce audio or see the audio HD option on the device<br/>- Merged latest caf tag in kernel"
+}
