@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Initial release & Maintainer change<br/>- Update blobs from OOS 11.0.7.7<br/>- Added unified bdroid header<br/>- overlay: Set up custom FOD pre-enrollment & color mode preview images<br/>- Introduce DeviceSettings<br/>- Added OnePlus Dolby<br/>- Added OnePlus Camera & Gallery<br/>- Added OnePlus device specific props<br/>- overlay: Show min/max refresh rate switches<br/>- Set default Settings.Global.DEVICE_NAME according to OOS"
+    }
+  ]
+}
