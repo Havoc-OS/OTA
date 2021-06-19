@@ -1,16 +1,17 @@
 {
-  "oem":"",
-  "name":"",
-  "codename":"",
-  "filename":"",
-  "version":"",
-  "romtype":"",
-  "variant":"",
-  "maintainer":"",
-  "size":,
-  "datetime":,
-  "filehash":"",
-  "id":"",
-  "url":"",
-  "group":""
+  "oem":"Realme",
+  "name":"Realme 5 Pro",
+  "codename":"RMX1971",
+  "filename":"Havoc-OS-v4.6-20210619-RMX1971-Official.zip",
+  "version":"4.6",
+  "romtype":"Official",
+  "variant":"Vanilla",
+  "maintainer":"Krish Walecha",
+  "size":1048863756,
+  "datetime":1624087864,
+  "filehash":"66eb8a4b19b096ba0abc936589233ceb",
+  "id":"cced4706add66b30679bdc4d31e34a5d5ad2c7a76188b5d4b7d0863b4de60e26",
+  "url":"https://download.havoc-os.com/RMX1971/Havoc-OS-v4.6-20210619-RMX1971-Official.zip",
+  "group":"https://t.me/havoc_RMX1971"
 }
+
