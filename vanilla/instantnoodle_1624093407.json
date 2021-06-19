@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Added OnePlus Camera & Gallery<br/>- Added OnePlus Dolby<br/>- Added DeviceSettings<br/>- Set up custom FOD pre-enrollment & color mode preview images<br/>- Update blobs from OOS 11.0.7.7"
+    }
+  ]
+}
