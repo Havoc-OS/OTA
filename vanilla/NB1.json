@@ -1,0 +1,16 @@
+{
+  "oem":"Nokia",
+  "name":"Nokia 8",
+  "codename":"NB1",
+  "filename":"Havoc-OS-v4.6-20210619-NB1-Official.zip",
+  "version":"4.6",
+  "romtype":"Official",
+  "variant":"Vanilla",
+  "maintainer":"Edward Wu (edwardwu0223)",
+  "size":721861065,
+  "datetime":1624113044,
+  "filehash":"04c1c92dbb37d5d76afbc467c2838017",
+  "id":"ea4af530f298fd45807d4c16a9b2c578629d79d2c39adcd27be8ac0f0cb8b868",
+  "url":"https://download.havoc-os.com/NB1/Havoc-OS-v4.6-20210619-NB1-Official.zip",
+  "group":"https://t.me/Havoc_OS"
+}
