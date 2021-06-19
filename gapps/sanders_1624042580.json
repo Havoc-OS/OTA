@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Fix usb tethering<br/>- Added some extra tweaks<br/>- Add adreno idler preset & adrenoboost profile <br/>- Added Selinux toggle<br/>- Improved smoothness<br/>- Switch to snap cam<br/>- Add via browsers for vanilla build<br/>- Fix Adaptive charging<br/>- dirac: add bass booster preset<br/>- Various improvement to kernel<br/>- Added some kernel security patches from google<br/>- Other fixes and improvements"
+    }
+  ]
+}
