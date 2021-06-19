@@ -1,16 +1,16 @@
 {
   "oem":"Xiaomi",
-  "name":"sirius",
+  "name":"MI 8 SE",
   "codename":"sirius",
-  "filename":"Havoc-OS-v4.6-20210616-sirius-OFFICIAL.zip",
+  "filename":"Havoc-OS-v4.6-20210619-sirius-OFFICIAL.zip",
   "version":"4.6",
-  "romtype":"OFFICIAL",
+  "romtype":"Official",
   "variant":"Vanilla",
   "maintainer":"dimasyudha",
-  "size":931045424,
-  "datetime":1623846791,
-  "filehash":"09c4642d6ba06af3ec97be432cc1a6f6",
-  "id":"a8a25cfc2cfa0d3e2417fe8917d57615ffe6ccd0f346d7591b4a8afb449524e9",
-  "url":"https://download.havoc-os.com/sirius/Havoc-OS-v4.6-20210616-sirius-OFFICIAL.zip",
-  "group":"https://t.me/Havoc_OS"
+  "size":931022259,
+  "datetime":1624100635,
+  "filehash":"c58700e1c6890e3ba35dc2b1c3a4a9dd",
+  "id":"6456cfc54ea13552d723b642930a6bd27a7ec5bc8fad2899f1d77d4da84daa3d",
+  "url":"https://download.havoc-os.com/sirius/Havoc-OS-v4.6-20210619-sirius-OFFICIAL.zip",
+  "group":"https://t.me/havoc_sirius"
 }
