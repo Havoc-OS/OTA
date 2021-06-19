@@ -1,0 +1,16 @@
+{
+  "oem":"Meizu",
+  "name":"m1852",
+  "codename":"m1852",
+  "filename":"Havoc-OS-v4.6-20210619-m1852-Official.zip",
+  "version":"4.6",
+  "romtype":"Official",
+  "variant":"Vanilla",
+  "maintainer":"blackrow67",
+  "size":899639920,
+  "datetime":1624129349,
+  "filehash":"af501261b8675c82e0fbe07f5105e0bf",
+  "id":"605eac8fe26fd6be026c080b55eb91e0f97d06d1cef4ba073384ccbad1312c2b",
+  "url":"https://download.havoc-os.com/m1852/Havoc-OS-v4.6-20210619-m1852-Official.zip",
+  "group":"https://t.me/Havoc_OS"
+}
