@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Improve Camera Image Quality <br/>- Remove Some Unsupported decoders <br/>- Fixed Device Not Charging Issue <br/>- Fixed Adaptive Charging <br/>- Update Redfin fp to June <br/>- Addressed Some Deniels"
+    }
+  ]
+}
