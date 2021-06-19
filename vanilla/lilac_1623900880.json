@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Attempt to reduce power consumption<br/>- Attempt to fix SBC code issues<br/>- Removed SonyMusic app (installable from PlayStore"
+    }
+  ]
+}
