@@ -1,0 +1,7 @@
+{
+  "changelog":
+  [
+  "enabled":"true",
+  "whitelist_only":"false",
+  "info":"- Kernel upstreamed to 4.9.273<br/>- Merged tag LA.UM.9.3.r1-02100-sdm845.0 into kernel<br/>- Update brightness pattern from guacamole<br/>- Improved device idle drain<br/>- Improved zRAM<br/>- Other fixes & improvement"
+}
