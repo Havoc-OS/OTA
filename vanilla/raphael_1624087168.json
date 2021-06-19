@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Updated to Redfin's June fingerprint<br/>- Adjusted IME padding<br/>- Allowed force disabling of navigation bar"
+    }
+  ]
+}
