@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Upstreamed kernel to 4.4.273<br/>- Improved smoothness<br/>- Other fixes & improvements"
+    }
+  ]
+}
