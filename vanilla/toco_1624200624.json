@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"Fix vibration <br/> Drop non-working livedisplay stuff <br/> Add toco's official Telegram group & maintainer info"
+    }
+  ]
+}
