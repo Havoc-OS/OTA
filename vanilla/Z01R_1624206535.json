@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Update redfin June fingerprint.<br/>- Make Overlay DisplayBlanksAfterDoze=false<br/>- Nuke NFC until completely fixed."
+    }
+  ]
+}
