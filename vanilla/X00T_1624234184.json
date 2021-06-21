@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"• Move back to 4.4 <br/> • Update kernel to upstream 4.4.273 <br/> • Other fixes and improvements"
+    }
+  ]
+}
