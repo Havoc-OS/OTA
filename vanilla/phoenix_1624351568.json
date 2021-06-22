@@ -1,16 +1,9 @@
 {
-  "oem": "Redmi",
-  "name": "phoenix",
-  "codename": "phoenix",
-  "filename": "Havoc-OS-v4.6-20210622-phoenix-Official.zip",
-  "version": "4.6",
-  "romtype": "Official",
-  "variant": "Vanilla",
-  "maintainer": "Blacksuan19",
-  "size": 1040644243,
-  "datetime": 1624351568,
-  "filehash": "303c86c210c39d12731576342c1ffc64",
-  "id": "d206615741d4dce9bdd5e08e026a22c93ec9dbf760eac954063ed0f55ca2823a",
-  "url": "https://download.havoc-os.com/phoenix/Havoc-OS-v4.6-20210622-phoenix-Official.zip",
-  "group": "https://t.me/havoc_phoenix"
+  "changelog": [
+    {
+      "enabled": "true",
+      "whitelist_only": "false",
+      "info": "- Upstream kernel to 4.14.235 <br/>- add option to mask notch <br/>- add hotword enrollmenet <br/>- fix adaptive charging <br/>- add support for AliPay fingerprint payment<br/>- update vendor blobs from 21.6.2"
+    }
+  ]
 }
