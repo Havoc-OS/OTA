@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Initial Official Build by me <br/>- Fixed all audio related bugs(VOIP echo, audio distortion)<br/>- Removed XiaomiParts and AOD"
+    }
+  ]
+}
