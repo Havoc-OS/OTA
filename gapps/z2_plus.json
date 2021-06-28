@@ -1,0 +1,16 @@
+{
+  "oem":"ZUK",
+  "name":"Zuk Z2 Plus",
+  "codename":"z2_plus",
+  "filename":"Havoc-OS-v4.6-20210628-z2_plus-Official-GApps.zip",
+  "version":"4.6",
+  "romtype":"Official",
+  "variant":"GApps",
+  "maintainer":"Nikhil Gohil",
+  "size":1340708831,
+  "datetime":1624855920,
+  "filehash":"6edfefbf36c37b8ea83ae83e29045c7c",
+  "id":"98562f4b0f61c4e279481f56d8e98e76012112c8a989b9db5b33f014e2627a8c",
+  "url":"https://download.havoc-os.com/z2_plus/Havoc-OS-v4.6-20210628-z2_plus-Official-GApps.zip",
+  "group":"https://t.me/havoc_z2_plus"
+}

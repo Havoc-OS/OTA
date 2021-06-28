@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Kernel: Merged 4.4.273<br/>- Fixed Reboot Issues After Clean Flash<br/>- More Device Improvements"
+    }
+  ]
+}
