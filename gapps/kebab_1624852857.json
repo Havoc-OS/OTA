@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Update few blobs×priv-app×configs from OB6<br/>- Improve Automatic Brightness<br/>- Added more screen off gestures<br/>- Fixed portrait beauty mode force close<br/>- Fixed Rear camera bokeh effect<br/>- Improve OnePlus Camera Stability<br/>- Fixed Alipay fingerprint payment<br/>- overlay: Switch to Havoc FOD Icon"
+    }
+  ]
+}
