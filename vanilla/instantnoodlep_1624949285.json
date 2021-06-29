@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"0629<br/>- Fixed video recording when filter is on<br/>- Fixed screen flicker when screen off with aod turned on<br/><br/>0627<br/>- Improve Automatic Brightness<br/>- Added more screen off gestures<br/>- Fixed Alipay fingerprint payment<br/>- Switch to Havoc fod icon<br/>- Mirror improvements"
+    }
+  ]
+}
