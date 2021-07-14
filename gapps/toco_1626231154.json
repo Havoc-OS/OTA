@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"Improved charging speeds (test with original cable) <br/> Some slight FOD improvements <br/> Rework light HAL <br/> Doze improvements <br/> Add missing surfaceflinger flag"
+    }
+  ]
+}
