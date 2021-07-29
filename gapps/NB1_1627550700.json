@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Enable VoWi-Fi support.<br/>- Enable dual SIM support.<br/>- Enable Multi User UI.<br/>- Atomix Kernel 4.4.274(Stable release build)<br/>- Umod Kernel 4.4.277 (Beta release build , Join test group and download.)"
+    }
+  ]
+}
