@@ -1,35 +1,31 @@
-Havoc-OS v4.6 Changelog 15-06-2021:
+Havoc-OS v4.8 Changelog 05-08-2021:
 
-- Merged June Security Patch (android-11.0.0_r38)
-- Added Automated Sleep Mode
-- Added Color mode preview to LiveDisplay
-- Added Alarms Blocker (Developer Settings)
-- Added Wakelock Blocker (Developer Settings)
-- Added Partial/Full Screenshot QS tile
-- Added 1 minute timeout to Power menu
-- Added ability to block media apps from resuming
-- Added toggle to reduce refresh rate on battery saver
-- Added Blinking stop dot to ScreenRecord
-- Added Low quality option to ScreenRecord
-- Improved ScreenRecord Dialog layout
-- Improved Sensors icon
-- Improved Refresh rate settings
-- Improved Adaptive charging
-- Improved Blur appearance and performance
-- Improved Bluetooth dialog theme
-- Improved Lockscreen PIN layout
-- Improved Pocket mode layout
-- Improved ringer vibration patterns
-- Changed default screen timeout to 2 minutes
-- Fixed Styles & Wallpapers crash on Vanilla builds
-- Fixed issues with AppLock
-- Fixed daily Wi-Fi data usage in QS footer
-- Fixed crash caused by Heads-Up timeout
-- Fixed Gaming mode turn off notification
-- Fixed Long press on Gaming Mode QS tile
-- Fixed inverted VoLTE/VoWiFi icons
-- Fixed Signal icon alignment
-- Removed Suspend actions
-- Added Font size setting to Launcher
-- Improved Icon size setting in Launcher
+- Merged July and August Security Patch (android-11.0.0_r39/40)
+- Added Hotspot client manager
+- Added Auto-brightness icon to QS footer
+- Improved QS Panel layout in landscape
+- Improved FOD with Assistant on Lockscreen
+- Improved Night Light transition
+- Improved Brightness slider animation
+- Improved touch for captions and ringer button when on landscape
+- Improved scrolling in some apps
+- Improved some UI elements for user fonts
+- Improved vertical padding between QS tiles
+- Spoofed device for a few more Google apps
+- Removed VoLTE slice from MobileDataPanel
+- Fixed Status icons activity crash
+- Fixed Auto-hide clock for right/center clock positions
+- Fixed Clock icon in Kai, Victor icon packs
+- Fixed wiping dynamic partitions in Havoc-OS Recovery
+- Added Google Search Widget to homescreen dock
+- Improved homescreen dock padding
+- Fixed Kill App button in recents app sheet
+- Fixed Blur not showing in some scenarios
 - Other fixes and improvements
+
+You can support the work we do by contributing towards this project.
+We are planning to expand and looking for users to help us reach that goal.
+
+Here's our link:
+PayPal: https://paypal.me/ANUSHEK
+UPI/Google Pay (India): anushekprasal@okhdfcbank
