@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Drop some duplicate services<br/>- Fixed rounded corner on statusbar when notch is hidden<br/>- Update Adreno & Display Blobs from OnePlus 6<br/>- Update CNE, IMS, QMI & RIL Blobs from PNX<br/>- Update DPM, DRM, OMX codecs, & VPP Blobs from OnePlus 6<br/>- Update Snapdragon Computer Vision Engine Blobs from OnePlus 6<br/>- Update TUI, TEE, Peripheral Manager, ESE, Time services & MSM IRQ Balance from OnePlus 6<br/>- Update WFD Blobs from OnePlus 6"
+    }
+  ]
+}
