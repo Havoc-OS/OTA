@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Switch to User build<br/>- Switch back to 8T blobs<br/>- Update blobs from Open Beta 7<br/>- Sync configs & rootdir with Open Beta 7<br/>- Update OnePlus Camera & Gallery from Open Beta 7<br/>- oneplus-fwk: Update OpFeatures list from Open Beta 7<br/>- Update dimensions and corners<br/>- sepolicy: Address denials for user build<br/>- Set color mode to Saturated by default<br/>- Enable Seamless Transfer<br/>- Sync media props with stock<br/>- Fixed Dolby Atoms & improved audio<br/>- Fixed invisible fod icon on white background<br/>- Fixed AppLock fod margin<br/>- Fixed video stutters in some apps<br/>- Remove high refresh rate blacklist<br/>- Enable TWS plus feature<br/>- DeviceSettings: Add KCAL display calibration + QS tile<br/>- DeviceSettings: Added customizations for FPS overlay<br/>- DeviceSettings: Allow mute media volume on silent mode<br/>- DeviceSettings: Doze: Match switch bar theme with Master switch<br/>- DeviceSettings: Update doze & auto hbm/hbm vector icon<br/>- DeviceSettings: Clean up! Strings & re-arrange display modes<br/>- DeviceSettings: Fix Auto HBM icon left alignment<br/>- DeviceSettings: Added Chinese, Italian, Polish, Russian & Spanish translation<br/>- Other minor cleanup and fixup"
+    }
+  ]
+}
