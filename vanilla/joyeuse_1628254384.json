@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- - Drop QCOM WFD blobs<br/>- Kang music detector from sunfish<br/>- Enable IOP v3 and userspace LMK<br/>- Disable userspace LMK<br/>- Fixed random reboot<br/>- Etc"
+    }
+  ]
+}
