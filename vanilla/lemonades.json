@@ -7,10 +7,10 @@
   "romtype":"Official",
   "variant":"Vanilla",
   "maintainer":"Chandu",
-  "size":1074005957,
-  "datetime":1628241678,
-  "filehash":"5db389fa3a1b0fe4a5531237423cdd11",
-  "id":"8f5efae35c46c651595f9fe0390a248ee428387c2140d74b4a0370982ccc879e",
+  "size":1073859825,
+  "datetime":1628260213,
+  "filehash":"4576e6862da458908b7bf50980668644",
+  "id":"b7a134d7b3eb1f078c4e9c608280cacc3436f7fbf61e9f473eada90e53f4ca08",
   "url":"https://download.havoc-os.com/lemonades/Havoc-OS-v4.8-20210806-lemonades-Official.zip",
   "group":"https://t.me/havoc_oneplus8"
 }

@@ -4,7 +4,7 @@
     {
       "enabled":"true",
       "whitelist_only":"false",
-      "info":"- Initial Release<br/>"
+      "info":"- Fixed Random CrashDump Mode Issues<br/>"
     }
   ]
 }

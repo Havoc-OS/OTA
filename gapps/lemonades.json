@@ -7,10 +7,10 @@
   "romtype":"Official",
   "variant":"GApps",
   "maintainer":"Chandu",
-  "size":1493455948,
-  "datetime":1628231906,
-  "filehash":"853d6976e93601c343044d6e67e0f423",
-  "id":"989c1859cae72399665f596cfccb0ccef656de848fd1e126195fe2c686de9814",
+  "size":1493340952,
+  "datetime":1628254072,
+  "filehash":"1fc0d2ebad81abbd5040a44e70203b8a",
+  "id":"24c4473fe4b65627338e6391fba99d96a4120dcdc46a3fe698990582cdd04697",
   "url":"https://download.havoc-os.com/lemonades/Havoc-OS-v4.8-20210806-lemonades-Official-GApps.zip",
   "group":"https://t.me/havoc_oneplus8"
 }
