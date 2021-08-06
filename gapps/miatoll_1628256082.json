@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Fixed heating while charging for 33w chargers <br/>- Fixed wifi display <br/>- Merge Latest caf tag in kernel and misc improvements <br/>- Improve post_boot tuning for performance(less jitter for now) <br/>- Updated blobs from excalibur and load a11 liboemcrypto for excalibur"
+    }
+  ]
+} 
