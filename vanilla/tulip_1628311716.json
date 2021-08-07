@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Aug Redfin fp <br/>- kernel Upstreamed to 4.4.276 <br/>- Update graphic blobs  <br/>- better ram management <br/>- misc Improve improvements <br/>"
+    }
+  ]
+}
