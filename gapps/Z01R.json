@@ -7,10 +7,10 @@
   "romtype":"Official",
   "variant":"GApps",
   "maintainer":"Edward Wu (edwardwu0223)",
-  "size":1084595773,
-  "datetime":1628308356,
-  "filehash":"2a0529c836532adc417683fe67e639af",
-  "id":"a4d4245fdb9fd7155aa68af4ce450fc7bcd1295db1003f54590f4c3c6a1dbb09",
+  "size":1087873086,
+  "datetime":1628324819,
+  "filehash":"adef8377cb0e6a9b59b04fca93b35791",
+  "id":"3f1e6c03b156aead993231f0b38eba42619776767df2ba22a47048e0f2b0d397",
   "url":"https://download.havoc-os.com/Z01R/Havoc-OS-v4.8-20210807-Z01R-Official-GApps.zip",
   "group":"https://t.me/havoc_Z01R"
 }
