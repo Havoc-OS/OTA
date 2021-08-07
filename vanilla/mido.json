@@ -2,15 +2,15 @@
   "oem":"Xiaomi",
   "name":"Xiaomi Redmi Note 4",
   "codename":"mido",
-  "filename":"Havoc-OS-v4.6-20210619-mido-Official.zip",
-  "version":"4.6",
+  "filename":"Havoc-OS-v4.8-20210807-mido-Official.zip",
+  "version":"4.8",
   "romtype":"Official",
   "variant":"Vanilla",
   "maintainer":"Erick Eagle (NBD_ERICK)",
-  "size":713888202,
-  "datetime":1624081253,
-  "filehash":"29d734b449119e32b2e080737e862158",
-  "id":"ad17cab2a5da41517b1dc7a384266fd824dcd897769fbeec9bf6409badbcda9c",
-  "url":"https://download.havoc-os.com/mido/Havoc-OS-v4.6-20210619-mido-Official.zip",
-  "group":"https://t.me/Havoc_mido"
+  "size":712151572,
+  "datetime":1628294267,
+  "filehash":"25b3e83b67c822b7693b94ca7e4351e4",
+  "id":"01e571cc6376564fdd44af67bd021fb6d7b6c3dacc557505595ba21babcbd4cc",
+  "url":"https://download.havoc-os.com/mido/Havoc-OS-v4.8-20210807-mido-Official.zip",
+  "group":"https://t.me/Havoc_OS"
 }
