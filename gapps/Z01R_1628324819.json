@@ -4,7 +4,8 @@
     {
       "enabled":"true",
       "whitelist_only":"false",
-      "info":"- Use skiagl as HWUI renderer."
+      "info":"- Fix Hotspot Client List crash."
+"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Fix Hotspot Client List crash."
+"
+    }
+  ]
+}
