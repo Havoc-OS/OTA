@@ -1,16 +1,16 @@
 {
   "oem":"POCO",
-  "name":"surya",
+  "name":"POCO X3 / NFC",
   "codename":"surya",
   "filename":"Havoc-OS-v4.8-20210806-surya-Official-GApps.zip",
   "version":"4.8",
   "romtype":"Official",
   "variant":"GApps",
-  "maintainer":"Unknown",
+  "maintainer":"Tushar Mahajan (mahajant99)",
   "size":1613431506,
   "datetime":1628217946,
   "filehash":"005e45200308b3de927812a189ad386d",
   "id":"bc0e70c83ff8c10f6e660d6ec61f2c22f6212883cea96bc334999064e96f07d2",
   "url":"https://download.havoc-os.com/surya/Havoc-OS-v4.8-20210806-surya-Official-GApps.zip",
-  "group":"https://t.me/Havoc_OS"
+  "group":"https://t.me/havoc_surya"
 }

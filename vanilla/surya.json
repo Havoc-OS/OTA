@@ -1,16 +1,16 @@
 {
   "oem":"POCO",
-  "name":"surya",
+  "name":"POCO X3 / NFC",
   "codename":"surya",
   "filename":"Havoc-OS-v4.8-20210806-surya-Official.zip",
   "version":"4.8",
   "romtype":"Official",
   "variant":"Vanilla",
-  "maintainer":"Unknown",
+  "maintainer":"Tushar Mahajan (mahajant99)",
   "size":1063882744,
   "datetime":1628208230,
   "filehash":"44b2c736005289801e7c88925ce4564b",
   "id":"4012f674e5f39ad4e4218d6dad5dd8b8b5c101de46d3e1794d189317ba18e252",
   "url":"https://download.havoc-os.com/surya/Havoc-OS-v4.8-20210806-surya-Official.zip",
-  "group":"https://t.me/Havoc_OS"
+  "group":"https://t.me/havoc_surya"
 }
