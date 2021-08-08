@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Fixed fod icon disappear after pressing<br/>- Fixed Spanish language mismatch<br/>- Fixed sometimes Alert Slider not working<br/>- Add back high refresh rate blacklist for some apps"
+    }
+  ]
+}
