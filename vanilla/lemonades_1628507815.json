@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Added OnePlus Camera & Gallery<br/>- Fixed invisible fod icon on white background<br/> - Fixed Spanish language mismatch<br/>- Fixed sometimes Alert Slider not working<br/>- Add back high refresh rate blacklist for some apps<br/>- Fixed loud audio issue at volume level < 20%<br/>- Switch to userdebug build<br/>- Address various sepolicy denials<br/>- Other minor cleanup & fixup"
+    }
+  ]
+}
