@@ -1,16 +1,17 @@
-{                                                                                              
-  "oem":"OnePlus",                                                                             
-  "name":"OnePlus6T",                                                                          
-  "codename":"fajita",                                                                         
-  "filename":"Havoc-OS-v4.8-20210811-fajita-Official-GApps.zip",                               
-  "version":"4.8",                                                                             
-  "romtype":"Official",                                                                        
-  "variant":"GApps",                                                                           
-  ""maintainer":"Vikas(OptimussPriime)",                                                                      
-  "size":1156743597,                                                                           
-  "datetime":1628690945,                                                                       
-  "filehash":"1c91a588b7326473973207503463c13a",                                               
-  "id":"fc7278123e3bde2b55bdb906e9ddf91b3d5000c202e61a496d4970315209865d",                     
-  "url":"https://download.havoc-os.com/fajita/Havoc-OS-v4.8-20210811-fajita-Official-GApps.zip"
-,                                                                                              
+{
+  "oem":"OnePlus",
+  "name":"OnePlus6T",
+  "codename":"fajita",
+  "filename":"Havoc-OS-v4.8-20210811-fajita-Official-GApps.zip",
+  "version":"4.8",
+  "romtype":"Official",
+  "variant":"GApps",
+  "maintainer":"Vikas(OptimussPriime)",
+  "size":1156743597,
+  "datetime":1628690945,
+  "filehash":"1c91a588b7326473973207503463c13a",
+  "id":"fc7278123e3bde2b55bdb906e9ddf91b3d5000c202e61a496d4970315209865d",
+  "url":"https://download.havoc-os.com/fajita/Havoc-OS-v4.8-20210811-fajita-Official-GApps.zip",
   "group":"https://t.me/havoc_oneplus6t"
+}
+
