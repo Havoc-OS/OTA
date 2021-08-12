@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Revert back to prebuilt fp hidl<br/>- Label /dev/peel_ir and Fixed IR<br/>- DA kernel 4.9.277<br/>- Update power profile<br/>- Address power hal denial and Fixed dt2w toggle<br/>- Fixed neverallows and User build from now<br/>- and more"
+    }
+  ]
+}
