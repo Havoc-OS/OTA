@@ -1,0 +1,16 @@
+{
+  "oem":"realme",
+  "name":"Realme C3 / Narzo 10A",
+  "codename":"RMX2020",
+  "filename":"Havoc-OS-v4.8-20210813-RMX2020-Official.zip",
+  "version":"4.8",
+  "romtype":"Official",
+  "variant":"Vanilla",
+  "maintainer":"INDER",
+  "size":702430589,
+  "datetime":1628871031,
+  "filehash":"309ebdf6e3ae9dd27eef528d95a3b691",
+  "id":"a6bbca5af0d61c599e8f81463454876e9658306a357018235e3e62cf26dad5e2",
+  "url":"https://download.havoc-os.com/RMX2020/Havoc-OS-v4.8-20210813-RMX2020-Official.zip",
+  "group":"https://t.me/havoc_rmx2020"
+}
