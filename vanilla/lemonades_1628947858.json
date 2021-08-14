@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Switch to Perf+ Kernel<br/>- Drop OnePlus Dolby<br/>- Fixed loud audio issues on low volume level<br/>- Improved performance and battery backup"
+    }
+  ]
+}
