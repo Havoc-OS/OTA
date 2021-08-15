@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"Kernel: <br/> • Upstream to 4.9.279 Rename™ <br/><br/>Device: <br/> • Fix support of exFAT <br/> • Prebuilt OrangeFox-R11.0_1-Stable <br/> • Address sepolicy denials <br/> • Other fixes and improvements"
+    }
+  ]
+}
