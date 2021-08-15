@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+  "enabled":"true",
+  "whitelist_only":"false",
+  "info":"- Kernel Upstreamed to v4.9.279<br/>- Fixed sound control and low sound issues"
+    }
+  ]
+}
