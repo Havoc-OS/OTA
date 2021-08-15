@@ -1,16 +1,16 @@
 {
   "oem":"Xiaomi",
-  "name":"Mi 9T Pro / K20 Pro",
+  "name":"K20 Pro / Mi 9T Pro",
   "codename":"raphael",
-  "filename":"Havoc-OS-v4.6-20210619-raphael-Official.zip",
-  "version":"4.6",
+  "filename":"Havoc-OS-v4.8-20210812-raphael-Official.zip",
+  "version":"4.8",
   "romtype":"Official",
   "variant":"Vanilla",
   "maintainer":"nuub1k (Alex Tro)",
-  "size":702851258,
-  "datetime":1624087168,
-  "filehash":"c57cf9c17709f22a914ba35ee9df6691",
-  "id":"261619c22f17b167c0a49784b67db7ccacecbfcd40fb36b298240670b86be5cc",
-  "url":"https://download.havoc-os.com/raphael/Havoc-OS-v4.6-20210619-raphael-Official.zip",
-  "group":"https://t.me/Havoc_OS"
+  "size":714714347,
+  "datetime":1628781186,
+  "filehash":"df491c1a289d1fbbe7a9c35710944c87",
+  "id":"041b1000c1224ff8d23274882f9103a2829658b9578db20c670a54f62714c172",
+  "url":"https://download.havoc-os.com/raphael/Havoc-OS-v4.8-20210812-raphael-Official.zip",
+  "group":"https://t.me/havoc_raphael"
 }
