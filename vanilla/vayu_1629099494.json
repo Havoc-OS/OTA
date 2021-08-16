@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Initial Official Build<br/>- August Security Patch<br/>- Source Upstream<br/>- Fixed night light<br/>- Update ru and uk-rUA devicesettings translations<br/>- Merged latest CAF tag on kernel<br/>- Enable the pre-rendering feature<br/>- Addressed some sepolicy logspam<br/>- Set default dalvik heap values to apply on GSI/DSU using arrowos_vayu vendor<br/>- Added missing surfaceflinger and SSR props"
+    }
+  ]
+}
