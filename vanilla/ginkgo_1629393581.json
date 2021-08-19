@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Upstreamed kernel to v4.14.243<br/>- Updated MIUI blobs to V12.0.2.0.RCOMIXM<br/>- Fixed random reboots during widevine L1 playback<br/>- Boost I/O during bootup to improve boot speed<br/>- Boost CPU during wake for faster faceunlock<br/>- Moved Xiaomi parts to system and updated it's logo<br/>- Hidden magisk manager better<br/>- Increased hispeed freq for big cluster<br/>- Disabled conservative PL boost<br/>- Reverted AOSP's old VM settings tweaks."
+    }
+  ]
+}
