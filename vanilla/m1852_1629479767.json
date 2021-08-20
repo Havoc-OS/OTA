@@ -1,0 +1,11 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Havoc-4.8 update"
+    }
+  ]
+}
+
