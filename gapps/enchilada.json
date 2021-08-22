@@ -1,17 +1,16 @@
-
 {
-  "oem":"OnePlus",
-  "name":"OnePlus6",
-  "codename":"enchilada",
-  "filename":"Havoc-OS-v4.8-20210811-enchilada-Official-GApps.zip",
-  "version":"4.8",
-  "romtype":"Official",
-  "variant":"GApps",
-  "maintainer":"Vikas(OptimussPriime)",
-  "size":1156973650,
-  "datetime":1628696860,
-  "filehash":"500d9d8e4e0aa4bde749439e9c6f7551",
-  "id":"f57d01d05a8c3c33b0e57ab143d028c012b4ba6561e486ae26d4b1f5ac5a1194",
-  "url":"https://download.havoc-os.com/enchilada/Havoc-OS-v4.8-20210811-enchilada-Official-GApps.zip",
-  "group":"https://t.me/havoc_oneplus6t"
+"oem":"OnePlus",                                                                             
+  "name":"OnePlus6",                                                                           
+  "codename":"enchilada",                                                                      
+  "filename":"Havoc-OS-v4.8-20210822-enchilada-Official-GApps.zip",                            
+  "version":"4.8",                                                                             
+  "romtype":"Official",                                                                        
+  "variant":"GApps",                                                                           
+  "maintainer":"Vikas",                                                                        
+  "size":1103416609,                                                                           
+  "datetime":1629646525,                                                                       
+  "filehash":"80c67afbe62728e9ef3dbab950edb839",                                               
+  "id":"3a15fd718191cbe47f32d08c891c00e3ccd493953897316bd4e001b0f7354f75",                     
+  "url":"https://download.havoc-os.com/enchilada/Havoc-OS-v4.8-20210822-enchilada-Official-GApps.zip",                                                                                        
+  "group":"https://t.me/havoc_oneplus6t"                                                       
 }
