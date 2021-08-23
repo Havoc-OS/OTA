@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Switch back to MIUI kernel from V12.5.3.0.RJSCNXM<br/>- Update vendor image from V12.5.3.0.RJSCNXM<br/>- Under the hood improvements<br/>- Disabled ViLTE (LTE Video Call)<br/>- Use 4G icon for China Carrier<br/>"
+    }
+  ]
+}
