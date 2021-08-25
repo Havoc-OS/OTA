@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Fixed mic distortions<br/>- Fixed Miracast<br/>- Fixed Adaptive Charging<br/>- Updated kernel"
+    }
+  ]
+}
