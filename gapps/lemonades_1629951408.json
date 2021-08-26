@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Fixed crashdump mode issue when using terminal<br/>- Kernel: Merged LA.UM.9.12.r1-12500-SMxx50.0 CAF tag<br/>- Kernel: Added Simple Low Memory Killer<br/>- Kernel: Misc Tweaks<br/>- Added Wechat & Alipay screen off gestures<br/>- Make cutout area touchable<br/>- Tri-state-key: Add support for setting up initial state on boot<br/>- Drop lineage powershare/wireless charging"
+    }
+  ]
+}
