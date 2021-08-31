@@ -1,0 +1,11 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- NOTE: Drop support OSS Vendor build, Make sure you already in Lineage Vendor. Direct upgrade won't boot.<br/>- Z01R: overlay: Enable VoLTE/VoWIFI for all indian cariers.<br/>- Make GCam HDR+ works."
+"
+    }
+  ]
+}
