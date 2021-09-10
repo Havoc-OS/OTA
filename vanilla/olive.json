@@ -2,7 +2,7 @@
   "oem":"Xiaomi",
   "name":"Redmi 8",
   "codename":"olive",
-  "filename":"Havoc-OS-v4.8-20210815-olive-Official.zip",
+  "filename":"Havoc-OS-v4.8-20210910-olive-Official.zip",
   "version":"4.8",
   "romtype":"Official",
   "variant":"Vanilla",
@@ -11,6 +11,6 @@
   "datetime":1629054340,
   "filehash":"3056601eac00a3e59460c62382ec736b",
   "id":"5635e7b30ab9fa089960a73b1b6c6467c830bb0feb092fd45d120918271f2e4f",
-  "url":"https://download.havoc-os.com/olive/Havoc-OS-v4.8-20210815-olive-Official.zip",
+  "url":"https://download.havoc-os.com/?dir=olive",
   "group":"https://t.me/havoc_olive_official"
 }
