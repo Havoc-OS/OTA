@@ -2,7 +2,7 @@
   "oem": "Redmi",
   "name": "Redmi K30",
   "codename": "phoenix",
-  "filename": "Havoc-OS-v4.8-20210809-phoenix-Official.zip",
+  "filename": "Havoc-OS-v4.8-20210909-phoenix-Official.zip",
   "version": "4.8",
   "romtype": "Official",
   "variant": "Vanilla",
@@ -11,6 +11,6 @@
   "datetime": 1628498453,
   "filehash": "8d18ddfe4f18a6362c843f3ca969a3f5",
   "id": "23752b4af67b78840eb3fb49deeb93e1449dea7379fe9849f315cc57518de23d",
-  "url": "https://download.havoc-os.com/phoenix/Havoc-OS-v4.8-20210809-phoenix-Official.zip",
+  "url": "https://download.havoc-os.com/?dir=phoenix",
   "group": "https://t.me/havoc_phoenix"
 }
