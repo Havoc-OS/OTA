@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Fixed IR blaster<br/>- Fixed lags in screen video recording<br/>- Fixed and updated Dirac implementation<br/>- Added and adapted Advanced Controls 2<br/>- Other small device and kernel fixes."
+    }
+  ]
+}
