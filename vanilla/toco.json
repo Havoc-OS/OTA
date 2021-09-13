@@ -2,7 +2,7 @@
   "oem":"Xiaomi",
   "name":"Mi Note 10 Lite",
   "codename":"toco",
-  "filename":"Havoc-OS-v4.8-20210806-toco-Official.zip",
+  "filename":"Havoc-OS-v4.8-toco-Official.zip",
   "version":"4.8",
   "romtype":"Official",
   "variant":"Vanilla",
@@ -11,6 +11,6 @@
   "datetime":1628209439,
   "filehash":"7d96fbe53837464c6417ca9cfe83be13",
   "id":"8613312cc327f28ad5c53579432400915e202c9926aab1220a22b558d176b788",
-  "url":"https://download.havoc-os.com/toco/Havoc-OS-v4.8-20210806-toco-Official.zip",
+  "url":"https://download.havoc-os.com/?dir=toco",
   "group":"https://t.me/havoc_toco"
 }
