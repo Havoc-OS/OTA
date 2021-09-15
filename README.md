@@ -1,3 +1,5 @@
+![Havoc Banner](https://github.com/SukeeratSG/dump-public/blob/iron/Assests/favicon.jpg)
+
 **Havoc-OS OTA Automation**
 
 - See our supported devices  [here](https://github.com/Havoc-OS/official_devices/)
