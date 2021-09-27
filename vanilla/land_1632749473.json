@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+  "enabled":"true",
+  "whitelist_only":"false",
+  "info":"- Kernel Upstreamed to v4.9.282<br/>- Fixed vilte and many other fixes and performance improvements<br/>- Added sound control settings"
+    }
+  ]
+}
