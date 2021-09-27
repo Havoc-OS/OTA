@@ -1,18 +1,17 @@
+
 {
   "oem":"Xiaomi",
   "name":"Redmi 4/4x",
   "codename":"santoni",
-  "filename":"Havoc-OS-v4.8-20210913-santoni-Official.zip",
-  "version":"4.8",
+  "filename":"Havoc-OS-v4.9-20210922-santoni-Official.zip",
+  "version":"4.9",
   "romtype":"Official",
   "variant":"Vanilla",
   "maintainer":"XDDEATH69",
-  "size":728914946,
-  "datetime":1631544793,
-  "filehash":"486bf9e33d306d77ae36f2b2e1871952",
-  "id":"8ee1095d8312245c89a002fc1585e325af4b95fde77a2d9e0f700887e37ece5b",
-  "url":"https://download.havoc-os.com/santoni/Havoc-OS-v4.8-20210913-santoni-Official.zip",
+  "size":739497709,
+  "datetime":1632337766,
+  "filehash":"809c896560522ab8e82ff1271862d4ec",
+  "id":"a4ae7b6f197c4224abfed11563f75d6522f4ac57cdfc52794e7df285790fa144",
+  "url":"https://download.havoc-os.com/santoni/Havoc-OS-v4.9-20210922-santoni-Official.zip",
   "group":"https://t.me/Havoc_Santoni"
 }
-
-
