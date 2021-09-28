@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Switched some blobs to LA.UM.9.12.r1-11500-SMxx50.0<br/>- Updated some blobs from OnePlus 9R<br/>- DeviceSettings: Added back Dolby Atmos from OnePlus 9R & QS tile (Disable by default)<br/>- DeviceSettings: Added GameMode toggle & QS tile<br/>- DeviceSettings: Update icons & Minor improvements<br/>- DeviceSettings: Drop KCAL settings<br/>- overlay: Drop Havoc FOD Icon<br/>- Added back lineage powershare support for 8pro<br/>- Added keyboard padding props from stock<br/>- Make cutout area touchable<br/>- Minor status bar dimension adjustment<br/>- Enable tap to show ambient display by default<br/>- Fixed Live Caption button position on landscape mode<br/>- Refactor tri-state-key code & Added support for applying on boot<br/>- kernel: Rebranded perf to Havoc-sm8250<br/>- kernel: Merged 'LA.UM.9.12.r1-12800-SMxx50.0' CAF tag<br/>- kernel: dtsi: fix duplicate overlays<br/>- kernel: techpack: audio: fix coding<br/>- kernel: power: Silence debug logging<br/>- kernel: configs: Enable wireguard<br/>- Other minor cleanup & improvements"
+    }
+  ]
+}
