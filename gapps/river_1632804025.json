@@ -4,7 +4,7 @@
     {
       "enabled":"true",
       "whitelist_only":"false",
-      "info":"- Fixed Regression with ExFAT Sdcards"
+      "info":"- Adjusted Brightness Settings<br/>- Use Lake CNE blobs to fix VoWiFI"
     }
   ]
 }
