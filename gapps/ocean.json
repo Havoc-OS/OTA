@@ -1,0 +1,17 @@
+{
+  "oem":"motorola",
+  "name":"Motorola G7 Power",
+  "codename":"ocean",
+  "filename":"Havoc-OS-v4.9-20210928-ocean-Official-GApps.zip",
+  "version":"4.9",
+  "romtype":"Official",
+  "variant":"GApps",
+  "maintainer":"Andrew Hexen",
+  "username":"SyberHexen",
+  "size":1139210371,
+  "datetime":1632806497,
+  "filehash":"a256c876ce9e731193d72810bd88ee8b",
+  "id":"9cc622880e61c03bba196c6d1fc7bb45ce3222b676651071da6764367efde7f9",
+  "url":"https://download.havoc-os.com/ocean/Havoc-OS-v4.9-20210928-ocean-Official-GApps.zip",
+  "group":"https://t.me/havoc_ocean"
+}
