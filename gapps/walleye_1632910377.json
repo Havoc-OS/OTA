@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Kernel upstream (4.4.284) <br/>- Improvements in power consumption <br/>- Fixed SafetyNet <br/>- Fixed WI-FI Display <br/>- Updated Now playing database <br/>- Improvements in Ai <br/>- Updated Google assistant <br/>- Other minor improvements"
+    }
+  ]
+}
