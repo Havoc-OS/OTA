@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Fixed random freeze/reboot issues while using Voot/Netflix etc. <br/>- Fixed sleep of death issues while using double tap to wake <br/>- Improve Fingerprint unlocking speed <br/>- Enable schedutil predicted load boosting <br/>- Removed L1 hacks(use android 11 firmware if you want L1)"
+    }
+  ]
+} 
