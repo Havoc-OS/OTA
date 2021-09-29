@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Device: Switch to new Device Tree.<br/>- OTA may broken DATA, make sure you already backup data.<br/>- SELinux is perrmissive now,Bank app may not pass.Enforcing status build will coming soon,and will release to tester group."
+    }
+  ]
+}
