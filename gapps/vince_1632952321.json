@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Switch to AOSP WFD (fixed WFD)<br/>- DA kernel 4.9.283<br/>- and more"
+    }
+  ]
+}
