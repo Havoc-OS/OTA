@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- Device: Switch to new Device Tree.<br/>- Release Enforcing build, won't lost your data, but still recommand backup before upgrade.<br/>- Kernel: Update to 4.4.285"
+    }
+  ]
+}
