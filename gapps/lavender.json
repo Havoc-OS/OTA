@@ -1,16 +1,18 @@
 {
   "oem":"Xiaomi",
-  "name":"Redmi Note 7/7S",
+  "name":"Xiaomi Redmi Note 7/7S",
   "codename":"lavender",
-  "filename":"Havoc-OS-v4.8-20210807-lavender-Official-GApps.zip",
-  "version":"4.8",
+  "filename":"Havoc-OS-v4.9-20211002-lavender-Official-GApps.zip",
+  "version":"4.9",
   "romtype":"Official",
   "variant":"GApps",
-  "maintainer":"Hazama25",
-  "size":1428133859,
-  "datetime":1628378195,
-  "filehash":"88187fd5333aab5199942c5e855c9e4d",
-  "id":"630f07e28f0f5cfe3f6a18d966298ccbe85ae3acf0d434b4d1a5b85db1ccd849",
-  "url":"https://download.havoc-os.com/lavender/Havoc-OS-v4.8-20210807-lavender-Official-GApps.zip",
-  "group":"https://t.me/havoclavender_official"
+  "maintainer":"Crahm Cotnol",
+  "username":"Hazama25",
+  "size":1442404380,
+  "datetime":1633134247,
+  "filehash":"6227acff8b7d79eb4bee24fe250768ce",
+  "id":"91961b593507f934f2202bca143fa03830d10da9b8f1d218029f8684ada9a897",
+  "url":"https://download.havoc-os.com/lavender/Havoc-OS-v4.9-20211002-lavender-Official-GApps.zip",
+  "group":"https://t.me/havoc_lavender"
 }
+
