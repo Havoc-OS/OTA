@@ -1,0 +1,10 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"- September Redfin fp <br/>- Kernel Upstreamed to 4.4.283 <br/>- Import IR HALs <br/>- Added unlimited backup in Google Photos  <br/>- Addressed some denials <br/>- Fix offline charging LED indicator <br/>- Misc Improve improvements <br/> Fix Battery settings crash <br/> Fix Blutooth audio issue"
+    }
+  ]
+}
