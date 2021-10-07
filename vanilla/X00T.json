@@ -1,17 +1,17 @@
 {
   "oem":"asus",
-  "name":"ZenFone Max Pro M1",
+  "name":"Asus ZenFone Max Pro M1",
   "codename":"X00T",
-  "filename":"Havoc-OS-v4.8-20210809-X00T-Official.zip",
-  "version":"4.8",
+  "filename":"Havoc-OS-v4.9-20211007-X00T-Official.zip",
+  "version":"4.9",
   "romtype":"Official",
   "variant":"Vanilla",
-  "maintainer":"travarilo",
-  "username":"",
-  "size":773795124,
-  "datetime":1628494167,
-  "filehash":"12b770600cffcb96105f81de9519a3b2",
-  "id":"4fd3e8b342ec523e0e7c6fafd4df124eb87fe5b07376b3a4d40350f4a8a05edc",
-  "url":"https://download.havoc-os.com/X00T/Havoc-OS-v4.8-20210809-X00T-Official.zip",
-  "group":"https://t.me/HavocX00T"
+  "maintainer":"Rizky Benggolo",
+  "username":"travarilo",
+  "size":778497794,
+  "datetime":1633597000,
+  "filehash":"da0e13ea7d0559cb4aa1777773219098",
+  "id":"0c14cb704976d2cb866f41cba18dce44f003763eef1668a6e9725f1be6879766",
+  "url":"https://download.havoc-os.com/X00T/Havoc-OS-v4.9-20211007-X00T-Official.zip",
+  "group":"https://t.me/havocX00T"
 }
