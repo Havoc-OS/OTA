@@ -1,9 +1,0 @@
-{
-  "changelog": [
-    {
-      "enabled": "true",
-      "whitelist_only": "false",
-      "info": "- Update blobs from miui PHOENIX 21.7.14 <br/>- Switch back to QTI powerhal <br/>- Relax refresh rate switching a bit <br/>- Define OEM fast charge sysfs node <br/>- Switch to AOSP BT from QTI BT stack <br/>- Misc changes"
-    }
-  ]
-}
