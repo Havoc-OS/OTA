@@ -1,32 +1,17 @@
 {
-
-	"oem": "OnePlus",
-
-	"name": "OnePlus6T",
-
-	"codename": "fajita",
-
-	"filename": "Havoc-OS-v4.8-20210822-fajita-Official-GApps.zip",
-
-	"version": "4.8",
-
-	"romtype": "Official",
-
-	"variant": "GApps",
-
-	"maintainer": "Unknown",
-
-	"size": 1103759232,
-
-	"datetime": 1629603846,
-
-	"filehash": "8b6fa589d4fe771f2fbe409a751726d8",
-
-	"id": "fcc76aaa30b8ac61409613601659f16b77a50355f7d757143fe11b5592de0869",
-
-	"url": "https://download.havoc-os.com/fajita/Havoc-OS-v4.8-20210822-fajita-Official-GApps.zip"
-
-		,
-
-	"group": "https://t.me/Havoc_OS"
+  "oem":"OnePlus",
+  "name":"OnePlus 6T",
+  "codename":"fajita",
+  "filename":"Havoc-OS-v4.9-20211010-fajita-Official-GApps.zip",
+  "version":"4.9",
+  "romtype":"Official",
+  "variant":"GApps",
+   "maintainer":"VIKAS",
+  "username":"OptimussPriime",
+  "size":1202653401,
+  "datetime":1633876538,
+  "filehash":"1c0bba03f2be80fdeb59b915808b1cfa",
+  "id":"c8d63f6296c1066e7c6d05261f408970c6015639bb0e92ac864c434a20c24b7a",
+  "url":"https://download.havoc-os.com/fajita/Havoc-OS-v4.9-20211010-fajita-Official-GApps.zip",
+  "group":"https://t.me/havoc_oneplus6t"
 }

@@ -1,17 +1,17 @@
-{                                                                                              
-  "oem":"OnePlus",                                                                             
-  "name":"OnePlus6T",                                                                          
-  "codename":"fajita",                                                                         
-  "filename":"Havoc-OS-v4.8-20210821-fajita-Official.zip",                                     
-  "version":"4.8",                                                                             
-  "romtype":"Official",                                                                        
-  "variant":"Vanilla",                                                                         
-  "maintainer":"Vikas (OptimussPriime)",                                                                     
-  "username":"",
-  "size":631228730,                                                                            
-  "datetime":1629566575,                                                                       
-  "filehash":"d84f0326a319e1b64fb7ae9d1bf37180",                                               
-  "id":"5d9d732bdb582029d45a9f920dc8d1bd1ce095820fc4abf6c08459daa765b284",                     
-  "url":"https://download.havoc-os.com/fajita/Havoc-OS-v4.8-20210821-fajita-Official.zip",     
-  "group":"https://t.me/havoc_oneplus6t"                                                 
+{
+  "oem":"OnePlus",
+  "name":"OnePlus 6T",
+  "codename":"fajita",
+  "filename":"Havoc-OS-v4.9-20211010-fajita-Official.zip",
+  "version":"4.9",
+  "romtype":"Official",
+  "variant":"Vanilla",
+   "maintainer":"VIKAS",
+  "username":"OptimussPriime",
+  "size":719668446,
+  "datetime":1633886816,
+  "filehash":"206aae981aba9ba42e979a5a5efa3eec",
+  "id":"754a436fddc3f378b04f32e2902ae9855b165b0478bcbefe369355e9454f10fb",
+  "url":"https://download.havoc-os.com/fajita/Havoc-OS-v4.9-20211010-fajita-Official.zip",
+  "group":"https://t.me/havoc_oneplus6t"
 }
