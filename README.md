@@ -1,6 +1,6 @@
-![Havoc Banner](https://github.com/SukeeratSG/dump-public/blob/iron/Assests/favicon.jpg)
-
-**Havoc-OS OTA Automation**
+<h3 align="center"><img src="https://github.com/SukeeratSG/dump-public/blob/iron/Assets/havoc_favicon.svg" width="30%" height="30%"></h3>
+<h1 align="center">Havoc-OS OTA Automation</h1>
+<br>
 
 - See our supported devices  [here](https://github.com/Havoc-OS/official_devices/)
 - Download : [here](https://havoc-os.com/download)
@@ -8,5 +8,6 @@
 - Not active devices can be downloaded from [here](https://download.havoc-os.com) 
 - All these automation systems cost money , so please donate for servers used to bring you weekly builds if you like our work
 - Donate : [Paypal](https://paypal.me/ANUSHEK) | UPI : anushekprasal@okhdfcbank
+<br>
 
 Havoc-OS Team
