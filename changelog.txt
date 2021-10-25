@@ -1,9 +1,10 @@
-Havoc-OS v4.9 Update is out now!
+Havoc-OS v4.10 Update is out now!
 
 We have now shifted to an automated build system to provide weekly updates for all our supported devices. We require a little bit of time to move all of our devices to automated releases. The release for this month will be delayed for a few devices. And some will start receiving the updates soon. Here are the changes in the upcoming build.
 
-Havoc-OS v4.9 Changelog 25-09-2021:
+Havoc-OS v4.10 Changelog 24-10-2021:
 
+- Merged October Security Patch (android-11.0.0_r46)
 - Merged September Security Patch (android-11.0.0_r43)
 - Added ability to lock apps in recents
 - Added back Screenshot notification

@@ -10,4 +10,4 @@
 - Donate : [Paypal](https://paypal.me/ANUSHEK) | UPI : anushekprasal@okhdfcbank
 <br>
 
-Havoc-OS Team
+<h3 align="center"><b>Havoc-OS Team</b></h3>
