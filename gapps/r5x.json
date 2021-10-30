@@ -1,0 +1,17 @@
+{
+  "oem":"Realme",
+  "name":"Realme 5 Series",
+  "codename":"r5x",
+  "filename":"Havoc-OS-v4.10-20211030-r5x-Official-GApps.zip",
+  "version":"4.10",
+  "romtype":"Official",
+  "variant":"GApps",
+  "maintainer":"iamlordutkarsh",
+  "username":"lordwitcher",
+  "size":1526407673,
+  "datetime":1635602424,
+  "filehash":"ab3337a83835c0e5fed5cd1127d72751",
+  "id":"2045b64c19be7333e65153748b5d889bca41cb586ef8156aba2be51fd6cfc116",
+  "url":"https://download.havoc-os.com/r5x/Havoc-OS-v4.10-20211030-r5x-Official-GApps.zip",
+  "group":"https://t.me/havoc_r5x"
+}
