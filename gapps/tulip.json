@@ -1,0 +1,17 @@
+{
+  "oem":"Xiaomi",
+  "name":"Redmi Note 6 Pro",
+  "codename":"tulip",
+  "filename":"Havoc-OS-v4.10-20211030-tulip-Official-GApps.zip",
+  "version":"4.10",
+  "romtype":"Official",
+  "variant":"GApps",
+  "maintainer":"Akhil MS",
+  "username":"AkhilMsAchu",
+  "size":1339057969,
+  "datetime":1635580420,
+  "filehash":"8414f6315bf5035f42256fdb5dbbcfac",
+  "id":"5768e75e8b183a579a3542dc5514a5b595dd713471d883e1fdfb192e7af35c2d",
+  "url":"https://download.havoc-os.com/tulip/Havoc-OS-v4.10-20211030-tulip-Official-GApps.zip",
+  "group":"https://t.me/havoc_tulip"
+}
