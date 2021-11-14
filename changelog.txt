@@ -1,47 +1,11 @@
-Havoc-OS v4.10 Update is out now!
+Havoc-OS v4.11 Update is out now with the following changes:
 
-We have now shifted to an automated build system to provide weekly updates for all our supported devices. We require a little bit of time to move all of our devices to automated releases. The release for this month will be delayed for a few devices. And some will start receiving the updates soon. Here are the changes in the upcoming build.
+- Merged November Security Patch
+- Minor fixes and improvements
 
-Havoc-OS v4.10 Changelog 24-10-2021:
+You can support the work we do by contributing towards this project.
+This will help us pay for the servers and other infrastructure to deliver timely updates moving forward.
+Here's our link:
 
-- Merged October Security Patch (android-11.0.0_r46)
-- Merged September Security Patch (android-11.0.0_r43)
-- Added ability to lock apps in recents
-- Added back Screenshot notification
-- Added Battery health
-- Added OxygenOS lock screen clock
-- Added App drawer opacity setting to Launcher
-- Added Local installation support in Updater
-- Added Custom rounded corner settings
-- Added Legacy WFD output video mode settings
-- Added Status bar notification ticker
-- Added New Gaming Mode overlay
-- Added toggle for anti-falsing on the lock screen
-- Added toggle for IME button space
-- Added Preferred refresh rate settings
-- Added One shot auto-brightness
-- Added FOD press animation
-- Added toggle to hide display cut-out
-- Improved FPS info
-- Improved Charging stats on lock screen
-- Improved DataSwitchTile
-- Improved Lock screen pulse
-- Improved Type lock screen clock
-- Improved Screen recorder
-- Improved Status bar burn in protection
-- Improved Twilight Service
-- Improved Night Mode
-- Improved Settings search bar layout
-- Fixed overlays resetting on reboot
-- Fixed package cache errors on user builds
-- Fixed Network Traffic visibility on Status bar
-- Fixed charging vibration for some devices
-- Fixed Screen-off Camera gesture
-- Reduced NotificationHistoryDatabase logspam
-- Restored AOSP Wi-Fi Display
-- Disabled all-caps for smart reply button text
-- Removed random text on some Wi-Fi SSID
-
-You can support the work we do by contributing towards this project. This will help us pay for the servers and other infrastructure to deliver timely updates moving forward. Here's our link:
 PayPal: https://paypal.me/ANUSHEK
 UPI/Google Pay (India): anushekprasal@okhdfcbank

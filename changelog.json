@@ -4,7 +4,7 @@
     {
       "enabled":"true",
       "whitelist_only":"false",
-      "info":"- Merged September Security Patch (android-11.0.0_r43)<br/>- Added ability to lock apps in recents<br/>- Added back Screenshot notification<br/>- Added Battery health<br/>- Added OxygenOS lock screen clock<br/>- Added App drawer opacity setting to Launcher<br/>- Added Local installation support in Updater<br/>- Added Custom rounded corner settings<br/>- Added Legacy WFD output video mode settings<br/>- Added Status bar notification ticker<br/>- Added New Gaming Mode overlay<br/>- Added toggle for anti-falsing on the lock screen<br/>- Added toggle for IME button space<br/>- Added Preferred refresh rate settings<br/>- Added One shot auto-brightness<br/>- Added FOD press animation<br/>- Added toggle to hide display cut-out<br/>- Improved FPS info<br/>- Improved Charging stats on lock screen<br/>- Improved DataSwitchTile<br/>- Improved Lock screen pulse<br/>- Improved Type lock screen clock<br/>- Improved Screen recorder<br/>- Improved Status bar burn in protection<br/>- Improved Twilight Service<br/>- Improved Night Mode<br/>- Improved Settings search bar layout<br/>- Fixed overlays resetting on reboot<br/>- Fixed package cache errors on user builds<br/>- Fixed Network Traffic visibility on Status bar<br/>- Fixed charging vibration for some devices<br/>- Fixed Screen-off Camera gesture<br/>- Reduced NotificationHistoryDatabase logspam<br/>- Restored AOSP Wi-Fi Display<br/>- Disabled all-caps for smart reply button text<br/>- Removed random text on some Wi-Fi SSID"
+      "info":"- Merged November Security Patch"
     }
   ]
 }

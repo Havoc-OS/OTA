@@ -6,7 +6,7 @@
 - Download : [here](https://havoc-os.com/download)
 - All devices that are not actively supported , have last version information here.
 - Not active devices can be downloaded from [here](https://download.havoc-os.com) 
-- All these automation systems cost money , so please donate for servers used to bring you weekly builds if you like our work
+- You can support the work we do by contributing towards this project. This will help us pay for the servers and other infrastructure to deliver timely updates moving forward. Here's our link:
 - Donate : [Paypal](https://paypal.me/ANUSHEK) | UPI : anushekprasal@okhdfcbank
 <br>
 
