@@ -8,10 +8,10 @@
   "variant":"GApps",
   "maintainer":"Shashank Verma",
   "username":"shank03",
-  "size":1338992626,
-  "datetime":1637234212,
-  "filehash":"b1f4b683ecb595382f0d15099c6227fc",
-  "id":"df4e0c29de914767ced16d84a5c970210d0ba2fe6de6359645e3598cd8ee749c",
+  "size":1338992607,
+  "datetime":1637240491,
+  "filehash":"ac1ea5efb3350e70e35c2b10de723fda",
+  "id":"c3d18fe2f4bac4d4b771ecf95986620e768b3b55dd960e035e92916b48ec39ad",
   "url":"https://download.havoc-os.com/lilac/Havoc-OS-v4.11-20211118-lilac-Official-GApps.zip",
   "group":"https://t.me/havoc_lilac"
 }
