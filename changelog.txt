@@ -1,7 +1,30 @@
-Havoc-OS v4.11 Update is out now with the following changes:
+Havoc-OS v4.12 Changelog 20-12-2021:
 
-- Merged November Security Patch
-- Minor fixes and improvements
+- Merged December Security Patch
+- Added Wallpaper based Theming
+- Added On-The-Go Mode
+- Added Flashlight blink for incoming calls
+- Added Android 12 clock
+- Added toggle to disable swipes on Ambient display
+- Added Recents task locking
+- Added Sensors QS tile
+- Added Ambient Display Visualizer
+- Added rounded corners for PIP window
+- Added Idle background process killer
+- Added toggle to mute media volume with alert slider
+- Updated ShadyQuickStep to Version 11-2021.11.28
+- Improved QS footer layout on RTL
+- Improved Edge Lighting
+- Improved layout of left aligned clocks
+- Improved Gaming Mode
+- Improved Updater
+- Improved Network Traffic
+- Improved Notification Ticker
+- Improved Statusbar Logo
+- Enabled UI Blur by default
+- Moved blur toggle to Display Settings
+- Disabled some useless debugging
+- Other fixes and improvements
 
 You can support the work we do by contributing towards this project.
 This will help us pay for the servers and other infrastructure to deliver timely updates moving forward.
