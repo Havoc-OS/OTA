@@ -1,17 +1,17 @@
 {
   "oem":"Xiaomi",
-  "name":" MI 10T /MI 10T PRO",
+  "name":"Mi 10T / 10T Pro",
   "codename":"apollo",
-  "filename":"Havoc-OS-v4.11-20211114-apollo-Official.zip",
-  "version":"4.11",
+  "filename":"Havoc-OS-v4.12-20211222-apollo-Official.zip",
+  "version":"4.12",
   "romtype":"Official",
   "variant":"Vanilla",
-  "maintainer":"Havoc CI",
-  "username":"irongfly",
-  "size":1194046182,
-  "datetime":1636915540,
-  "filehash":"74243023f1bb301465269dad80844248",
-  "id":"9d1ef7c1c5decbb62086b7c669322e190e95b9336f6e94c9e62448dc530412a0",
-  "url":"https://download.havoc-os.com/apollo/Havoc-OS-v4.11-20211114-apollo-Official.zip",
-  "group":"https://t.me/HavocOS_apollo"
+  "maintainer":"Tushar Mahajan",
+  "username":"mahajant99",
+  "size":1167311398,
+  "datetime":1640142459,
+  "filehash":"35946ce2ec900925ae0863a054c7e394",
+  "id":"7c49afb90d764e56e5278defe90e1ec39bdf57bdc2d89199788d00eecb145900",
+  "url":"https://download.havoc-os.com/apollo/Havoc-OS-v4.12-20211222-apollo-Official.zip",
+  "group":"https://t.me/havocos_apollo"
 }
