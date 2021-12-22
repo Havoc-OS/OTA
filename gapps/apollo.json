@@ -1,17 +1,17 @@
 {
   "oem":"Xiaomi",
-  "name":" MI 10T /MI 10T PRO",
+  "name":"Mi 10T / 10T Pro",
   "codename":"apollo",
-  "filename":"Havoc-OS-v4.11-20211114-apollo-Official-GApps.zip",
-  "version":"4.11",
+  "filename":"Havoc-OS-v4.12-20211222-apollo-Official-GApps.zip",
+  "version":"4.12",
   "romtype":"Official",
   "variant":"GApps",
-  "maintainer":"Havoc CI",
-  "username":"irongfly",
-  "size":1739906490,
-  "datetime":1636926273,
-  "filehash":"f09286a8dbf918a34167e19ba9722ff4",
-  "id":"da122615a8e7f82522e19d955275cf178db46f4b671d9f2a30c8a3b70a23264e",
-  "url":"https://download.havoc-os.com/apollo/Havoc-OS-v4.11-20211114-apollo-Official-GApps.zip",
-  "group":"https://t.me/HavocOS_apollo"
+  "maintainer":"Tushar Mahajan",
+  "username":"mahajant99",
+  "size":1617684951,
+  "datetime":1640171765,
+  "filehash":"7764a3ac90f3651fb45af60dff007e75",
+  "id":"3c2050aadd861bc4da802b6aaa5c5d7165445232fdd1899ba1071c4b7e42af6c",
+  "url":"https://download.havoc-os.com/apollo/Havoc-OS-v4.12-20211222-apollo-Official-GApps.zip",
+  "group":"https://t.me/havocos_apollo"
 }
