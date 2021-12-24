@@ -1,0 +1,10 @@
+{
+	"changelog":
+[
+	{
+		"enabled": "true",
+		"whitelist_only": "false",
+		"info": "- Switched to user build <br/>- Inlined twrp v3.6 selfcompiled <br/>- Synchronize codes for Oneplus 6/6T OxygenOS 11.1.1.1 in primus kernel <br/>- Linux upstrem from v4.9.233 to v4.9.294 into Primus kernel <br/>-Synchronized latest sdm845 device caf hals<br/>-Added prebuild clang v14.x support<br/>-Hardware_oneplus changes included<br/>-Don't copy 32-bit variant<br/>-Added tri state key  new changes2config_deviceLightCapabilities overlay in fajita  <br/>-sdm845-common: audio Add Built-In (Back) Mic to primary input sink<br/>-More under the hood improvements "
+	}
+]
+}
