@@ -1,0 +1,17 @@
+{
+  "oem":"OnePlus",
+  "name":"OnePlus 9",
+  "codename":"lemonade",
+  "filename":"Havoc-OS-v4.12-20211224-lemonade-Official.zip",
+  "version":"4.12",
+  "romtype":"Official",
+  "variant":"Vanilla",
+  "maintainer":"eduardo",
+  "username":"NeoTheSavage",
+  "size":1160371190,
+  "datetime":1640347253,
+  "filehash":"08c16416eb3560da2faaf2be93321180",
+  "id":"7047304a6fb71137699f40976d2b4aa1225e7e539cc3e2ea835bc3c5091aadcd",
+  "url":"https://download.havoc-os.com/lemonade/Havoc-OS-v4.12-20211224-lemonade-Official.zip",
+  "group":"https://t.me/havoc_oneplus9"
+}
