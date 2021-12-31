@@ -1,17 +1,17 @@
 {
   "oem":"Xiaomi",
-  "name": "Redmi K20 Pro / Mi 9T Pro",
+  "name":"Redmi K20 Pro / Mi 9T Pro",
   "codename":"raphael",
-  "filename":"Havoc-OS-v4.12-20211226-raphael-Official.zip",
+  "filename":"Havoc-OS-v4.12-20211231-raphael-Official.zip",
   "version":"4.12",
   "romtype":"Official",
   "variant":"Vanilla",
   "maintainer": "Sukeerat Singh Goindi",
   "username": "irongfly",
-  "size":717966928,
-  "datetime":1640535870,
-  "filehash":"aab7910b06b9681e48e5a8c324825773",
-  "id":"a0bcf3af5a75a9d74266fe9b1d77b66abf1e5183145e63faf61b1e2a92ad9df1",
-  "url":"https://download.havoc-os.com/raphael/Havoc-OS-v4.12-20211226-raphael-Official.zip",
-  "group":"https://t.me/havoc_raphael"
+  "size":717845307,
+  "datetime":1640982009,
+  "filehash":"9b8b3223b27fb125e7564e583a4f7984",
+  "id":"58cdc52569015c615380fd2a5772a9590e78212d72a67ab00b390c7abae0c27c",
+  "url":"https://download.havoc-os.com/raphael/Havoc-OS-v4.12-20211231-raphael-Official.zip",
+  "group":"https://t.me/+PqiVF8VGfaA1YTlk"
 }
