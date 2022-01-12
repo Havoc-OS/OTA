@@ -1,6 +1,6 @@
 {
-  "oem":"POCO",
-  "name":"Poco F3 / Xiaomi Mi11x / Xiaomi K40",
+  "oem":"Xiaomi",
+  "name":"Xiaomi Mi 11X / Redmi K40 / Poco F3",
   "codename":"alioth",
   "filename":"Havoc-OS-v4.12-20211220-alioth-Official-GApps.zip",
   "version":"4.12",
@@ -13,5 +13,5 @@
   "filehash":"df2992fcde69fa419e54745185db060e",
   "id":"1a4e465ad30494fe6d3004a64b33e6f653c021cc882d0cb6cc8d26301b47b1ea",
   "url":"https://download.havoc-os.com/alioth/Havoc-OS-v4.12-20211220-alioth-Official-GApps.zip",
-  "group":"https://t.me/havocalioth_in"
+  "group":"https://t.me/+lHrhajwm-HsyN2Q1"
 }

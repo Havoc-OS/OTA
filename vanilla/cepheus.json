@@ -6,12 +6,12 @@
   "version":"4.9",
   "romtype":"Official",
   "variant":"Vanilla",
-  "maintainer":"Savsır Cankat Özbay (savsir)",
-  "username":"",
+  "maintainer":"Savsir Cankat Özbay",
+  "username":"savsir",
   "size":1119954395,
   "datetime":1632641147,
   "filehash":"42520adce7988843e57ef904045bde94",
   "id":"e80814572144be59f79b0444228fe12f94c4820d144b57149f048565bbcf9feb",
   "url":"https://download.havoc-os.com/cepheus/Havoc-OS-v4.9-20210926-cepheus-Official.zip",
-  "group":"https://t.me/havoc_cepheus"
+  "group":"https://t.me/havocofficial"
 }

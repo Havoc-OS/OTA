@@ -1,6 +1,6 @@
 {
   "oem":"Xiaomi",
-  "name":"Redmi Note 3 Pro",
+  "name":"Xiaomi Redmi Note 3 Pro",
   "codename":"kenzo",
   "filename":"Havoc-OS-v4.8-20210913-kenzo-Official.zip",
   "version":"4.8",
@@ -13,5 +13,5 @@
   "filehash":"009d2216668bd633851342903f5d5f93",
   "id":"4c24d6d2dc1723d6b71eb17bd64ae3c2f89acff69b08b0816f282a08e0536388",
   "url":"https://download.havoc-os.com/kenzo/Havoc-OS-v4.8-20210913-kenzo-Official.zip",
-  "group":"https://t.me/havoc_kenzo"
+  "group":"https://t.me/havocofficial"
 }

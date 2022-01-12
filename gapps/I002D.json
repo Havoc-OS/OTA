@@ -1,17 +1,17 @@
 {
-  "oem":"asus",
-  "name":"Asus Zenfone 7",
+  "oem":"Asus",
+  "name":"Asus ZenFone 7 / 7 Pro",
   "codename":"I002D",
   "filename":"Havoc-OS-v4.12-20211225-I002D-Official-GApps.zip",
   "version":"4.12",
   "romtype":"Official",
   "variant":"GApps",
-  "maintainer":"Raileanu Cosmin (Comico)",
+  "maintainer":"Raileanu Cosmin",
   "username":"ComicoX",
   "size":1232832467,
   "datetime":1640441031,
   "filehash":"433dc6e5e064373e3066d808025bc011",
   "id":"105f72ddd53bdcbfa0419758fb7273d2f65b09ef23f69bee9f31ba946ed90459",
   "url":"https://download.havoc-os.com/I002D/Havoc-OS-v4.12-20211225-I002D-Official-GApps.zip",
-  "group":"https://t.me/havoc_i002d"
+  "group":"https://t.me/+n8WnpaOickA2Yzc0"
 }

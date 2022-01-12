@@ -1,5 +1,5 @@
 {
-  "oem":"lge",
+  "oem":"LG",
   "name":"LG G6",
   "codename":"h870ds",
   "filename":"Havoc-OS-v4.8-20210810-h870ds-Official.zip",
@@ -13,5 +13,5 @@
   "filehash":"f6dcfbc6635497ed010f729efba66a67",
   "id":"62e0a7514fc5d75f6a76f8a8441de31dfacf06f8cc4c5dc466ee196c93a39a44",
   "url":"https://download.havoc-os.com/lucye/Havoc-OS-v4.8-20210810-h870ds-Official.zip",
-  "group":"https://t.me/havoc_lucye"
+  "group":"https://t.me/havocofficial"
 }

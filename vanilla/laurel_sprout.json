@@ -1,6 +1,6 @@
 {
   "oem":"Xiaomi",
-  "name":"MI A3",
+  "name":"Xiaomi Mi A3",
   "codename":"laurel_sprout",
   "filename":"Havoc-OS-v4.8-20210829-laurel_sprout-Official.zip",
   "version":"4.8",
@@ -13,5 +13,5 @@
   "filehash":"ce4729e59b9c53c10da21de11f54e182",
   "id":"0e3cc1ebd3a7ad249d0d4bd15ae91767c9a8ec96e48f9a4cae798bf59b33439a",
   "url":"https://download.havoc-os.com/laurel_sprout/Havoc-OS-v4.8-20210829-laurel_sprout-Official.zip",
-  "group":"https://t.me/havoc_laurel_sprout"
+  "group":"https://t.me/havocofficial"
 }

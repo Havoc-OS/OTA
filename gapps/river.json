@@ -1,8 +1,8 @@
 {
-  "oem":"motorola",
-  "name":"Motorola G7",
+  "oem":"Motorola",
+  "name":"Motorola Moto G7",
   "codename":"river",
-  "filename":"Havoc-OS-v4.12-20211226-river-Official-GApps.zip",
+  "filename":"Havoc-OS-v4.12-20211227-river-Official-GApps.zip",
   "version":"4.12",
   "romtype":"Official",
   "variant":"GApps",
@@ -13,5 +13,5 @@
   "filehash":"52d590a2daa3f32c6a26d5f49ab96eb8",
   "id":"06d4771abe9cbc0c9054bb01b94643633c60bb6dd67f65c080d9e70c96968a3e",
   "url":"https://download.havoc-os.com/river/Havoc-OS-v4.12-20211226-river-Official-GApps.zip",
-  "group":"https://t.me/havoc_river"
+  "group":"https://t.me/+Oc1flk8GNpAyZWQ1"
 }
