@@ -1,6 +1,6 @@
 {
-  "oem":"POCO",
-  "name":"POCO X3 PRO",
+  "oem":"Xiaomi",
+  "name":"Xiaomi Poco X3 Pro",
   "codename":"vayu",
   "filename":"Havoc-OS-v4.12-20211226-vayu-Official.zip",
   "version":"4.12",
@@ -13,5 +13,5 @@
   "filehash":"a881c44aa2f5ed3a860bd5967352bf55",
   "id":"09ce97aba65a0aec4a31b23418fd892e1ee562165b43b032286fa7a1fb87b5c5",
   "url":"https://download.havoc-os.com/vayu/Havoc-OS-v4.12-20211226-vayu-Official.zip",
-  "group":"https://t.me/havocos_vayu"
+  "group":"https://t.me/havocofficial"
 }

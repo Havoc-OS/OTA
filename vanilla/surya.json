@@ -1,6 +1,6 @@
 {
-  "oem":"POCO",
-  "name":"POCO X3 / NFC",
+  "oem":"Xiaomi",
+  "name":"Xiaomi Poco X3 / NFC",
   "codename":"surya",
   "filename":"Havoc-OS-v4.12-20211226-surya-Official.zip",
   "version":"4.12",
@@ -13,5 +13,5 @@
   "filehash":"00aa8848453e5d10048f3c68da4ff363",
   "id":"9dcc7c7c098ccba233fd9716f160d5ebcf9e6a9986d1caf1b3058d3fa42348d6",
   "url":"https://download.havoc-os.com/surya/Havoc-OS-v4.12-20211226-surya-Official.zip",
-  "group":"https://t.me/havocos_surya"
+  "group":"https://t.me/+CsTtPCwRqiRlY2Jl"
 }

@@ -1,6 +1,6 @@
 {
   "oem":"Xiaomi",
-  "name":"Xiaomi Redmi Note 9 Pro 5G/Mi 10i/Mi 10T Lite",
+  "name":"Xiaomi Redmi Note 9 Pro 5G / Mi 10i / Mi 10T Lite",
   "codename":"gauguin",
   "filename":"Havoc-OS-v4.6-20210701-gauguin-Official.zip",
   "version":"4.6",
@@ -13,5 +13,5 @@
   "filehash":"11181ba77b98c9ad906ec722cc43a0f0",
   "id":"9d5c10bcfe29f0ae88d436deed9b812f41dae224e25e9f63e068ef6c233cd52f",
   "url":"https://download.havoc-os.com/gauguin/Havoc-OS-v4.6-20210701-gauguin-Official.zip",
-  "group":"https://t.me/havoc_gauguin"
+  "group":"https://t.me/havocofficial"
 }

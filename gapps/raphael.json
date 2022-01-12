@@ -1,17 +1,17 @@
 {
   "oem":"Xiaomi",
-  "name":"",
+  "name":"Xiaomi Redmi K20 Pro / Mi 9T Pro",
   "codename":"raphael",
   "filename":"Havoc-OS-v4.12-20211231-raphael-Official-GApps.zip",
   "version":"4.12",
   "romtype":"Official",
   "variant":"GApps",
-  "maintainer":"",
-  "username":"",
+  "maintainer":"Sukeerat Singh Goindi",
+  "username":"irongfly",
   "size":1193993432,
   "datetime":1640982252,
   "filehash":"b3307f4646cc729b9725e6337831d1ab",
   "id":"e31142b3073f41264077a73cc8cad167b2f9d6229e69997df0c1fbf7661b2d86",
   "url":"https://download.havoc-os.com/raphael/Havoc-OS-v4.12-20211231-raphael-Official-GApps.zip",
-  "group":""
+  "group":"https://t.me/+VOHKrvv_of5GmJET"
 }
