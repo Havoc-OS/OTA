@@ -1,17 +1,17 @@
 {
-  "oem":"Asus",
-  "name":"Asus ZenFone Max Pro M2",
+  "oem":"asus",
+  "name":"Asus Max Pro M2",
   "codename":"X01BD",
-  "filename":"Havoc-OS-v4.12-20211220-X01BD-Official-GApps.zip",
-  "version":"4.12",
+  "filename":"Havoc-OS-v4.13-20220127-X01BD-Official-GApps.zip",
+  "version":"4.13",
   "romtype":"Official",
   "variant":"GApps",
   "maintainer":"Sukeerat Singh Goindi",
-  "username":"irongfly",
-  "size":1369485249,
-  "datetime":1640023311,
-  "filehash":"b1bdea6c37b34753e7609212bd3f42af",
-  "id":"a7bfb9092753b1072c8a208cf60bc6abb4563ef9cb6cbd90fd4de39a219bf989",
-  "url":"https://download.havoc-os.com/X01BD/Havoc-OS-v4.12-20211220-X01BD-Official-GApps.zip",
-  "group":"https://t.me/+GaGANEky7Fw1Yjll"
+  "username":"Irongfly",
+  "size":1358440205,
+  "datetime":1643264779,
+  "filehash":"b31dd8a7216f17a31186391821300384",
+  "id":"1344ee6385b045ff5e3b963caa49d00b1f290fd698e5fadd2178226a6ccf9ec9",
+  "url":"https://download.havoc-os.com/X01BD/Havoc-OS-v4.13-20220127-X01BD-Official-GApps.zip",
+  "group":"t.me/+BaJnedaBMMQxNzg9"
 }
