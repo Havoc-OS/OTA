@@ -1,0 +1,17 @@
+{
+  "oem":"Xiaomi",
+  "name":"Xiaomi SDM439",
+  "codename":"mi439",
+  "filename":"Havoc-OS-v4.15-20220330-mi439-Official.zip",
+  "version":"4.15",
+  "romtype":"Official",
+  "variant":"Vanilla",
+  "maintainer":"IAmDeadlylxrd",
+  "username":"deadlylxrd",
+  "size":841065472,
+  "datetime":1648673023,
+  "filehash":"76013580fd96b81905a26fde61c824cb",
+  "id":"bbb854d174e126ec933204d1f4b47d235e622d72e99daa39b35ed1ca9683273e",
+  "url":"https://download.havoc-os.com/mi439/Havoc-OS-v4.15-20220330-mi439-Official.zip",
+  "group":"https://t.me/+-u0XrNIGepdkNDg6"
+}
