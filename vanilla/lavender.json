@@ -1,18 +1,17 @@
 {
   "oem":"Xiaomi",
-  "name":"Xiaomi Redmi Note 7 / 7S",
+  "name":"Redmi Note 7",
   "codename":"lavender",
-  "filename":"Havoc-OS-v4.9-20211002-lavender-Official.zip",
-  "version":"4.9",
+  "filename":"Havoc-OS-v4.15-20220404-lavender-Official.zip",
+  "version":"4.15",
   "romtype":"Official",
   "variant":"Vanilla",
-  "maintainer":"Crahm Cotnol",
-  "username":"Hazama25",
-  "size":906851853,
-  "datetime":1633138815,
-  "filehash":"b028ff971d9bf9a67df04894eac0bb10",
-  "id":"c7b7810a0a24bdc24079e2fdd03c8b579c3a52e6786da1ad53bd92c90e27a836",
-  "url":"https://download.havoc-os.com/lavender/Havoc-OS-v4.9-20211002-lavender-Official.zip",
-  "group":"https://t.me/+qalkNc-zwwkyMzEy"
+  "maintainer":"Vitor Leal",
+  "username":"bitortheaddicted",
+  "size":912900430,
+  "datetime":1649095075,
+  "filehash":"df3dc3a673ec7e60be5d68a81ee8bc81",
+  "id":"2b7a16c89da1f51fe3a49769b99c16591c4ce85ee2097f0c104e261b01dca6d5",
+  "url":"https://download.havoc-os.com/lavender/Havoc-OS-v4.15-20220404-lavender-Official.zip",
+  "group":"https://t.me/bitortheaddicted"
 }
-
