@@ -1,6 +1,6 @@
-Havoc-OS v4.16 Changelog 18-04-2022:
+Havoc-OS v4.19 Changelog 28-07-2022:
 
-- Merged April Security Patch
+- Merged July Security Patch
 - Other fixes and improvements
 
 You can support the work we do by contributing towards this project.
