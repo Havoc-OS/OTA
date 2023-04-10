@@ -1,0 +1,17 @@
+{
+  "oem":"Google",
+  "name":"Google Pixel 7 Pro",
+  "codename":"cheetah",
+  "filename":"Havoc-OS-v6.0-20230709-cheetah.zip",
+  "version":"6.0",
+  "romtype":"Official",
+  "variant":"GApps",
+  "maintainer":"Anushek Prasal",
+  "username":"SKULSHADY",
+  "size":2145696766,
+  "datetime":1681076339,
+  "filehash":"f932a6c936da877c41a03785415a7fdd",
+  "id":"4e16f8449b81d4ac4f03bb8b38ffefbe3ae32b0250fde31931e7c84a5ea901c8",
+  "url":"https://master.dl.sourceforge.net/project/havoc-os/cheetah/Havoc-OS-v6.0-20230709-cheetah.zip",
+  "group":"https://t.me/havocofficial"
+}

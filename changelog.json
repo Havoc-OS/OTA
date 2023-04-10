@@ -4,7 +4,7 @@
     {
       "enabled":"true",
       "whitelist_only":"false",
-      "info":"- Merged July Security Patch<br>- Other fixes and improvements"
+      "info":"This update fixes critical bugs and improves the performance and stability of your device. Learn more at <a href=\"https://havoc-os.com/changelog\">havoc-os.com/changelog</a>."
     }
   ]
 }
