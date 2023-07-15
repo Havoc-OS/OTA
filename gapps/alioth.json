@@ -1,0 +1,17 @@
+{
+  "oem":"Xiaomi",
+  "name":"Mi 11X / Poco F3 / Redmi K40",
+  "codename":"alioth",
+  "filename":"Havoc-OS-v6.0-20230715-alioth-Official-GApps.zip",
+  "version":"6.0",
+  "romtype":"Official",
+  "variant":"GApps",
+  "maintainer":"Anushek Prasal",
+  "username":"SKULSHADY",
+  "size":1660729390,
+  "datetime":1689377272,
+  "filehash":"9b6f2bc86ebd2881d8bdcaf48cf6608c",
+  "id":"35837d3280860b5c399d54e2b86de8257694e93358eeb284ed7134a9003e3990",
+  "url":"https://sourceforge.net/projects/havoc-os/files/alioth/Havoc-OS-v6.0-20230715-alioth-Official-GApps.zip/download",
+  "group":"https://t.me/havocofficial"
+}
