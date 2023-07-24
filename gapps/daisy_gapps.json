@@ -1,0 +1,17 @@
+{
+  "oem":"Xiaomi",
+  "name":"Xiaomi Mi A2 Lite",
+  "codename":"daisy",
+  "filename":"Havoc-OS-v6.0-20230724-daisy-Official-GApps.zip",
+  "version":"6.0",
+  "romtype":"Official",
+  "variant":"GApps",
+  "maintainer":"LuPe",
+  "username":"lupesoltec",
+  "size":1127092950,
+  "datetime":1689883702,
+  "filehash":"146dbfcea39c74a4d0eb2539913fad6a",
+  "id":"d64fe28e40a2cbf5d6ac7839c40e59a6ffa532c343522c142272a2120129c001",
+  "url":"https://sourceforge.net/projects/havoc-os/files/daisy/Havoc-OS-v6.0-20230724-daisy-Official-GApps.zip/download",
+  "group":"https://t.me/havoc_daisy"
+}
